@@ -37,87 +37,63 @@
   "_lockType": "",
   "_id": "course",
   "_start": {
-    "_isEnabled": false,
-    "_startIds": [],
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "5ef1e7e42e43fe0f9af2f0e1",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
     "_force": false,
     "_isMenuDisabled": false
   },
   "_globals": {
     "_accessibility": {
-      "accessibilityToggleTextOn": "Turn accessibility on?",
-      "accessibilityToggleTextOff": "Turn accessibility off?",
       "skipNavigationText": "Skip navigation",
-      "_accessibilityInstructions": {
-        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
-        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
-        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
-      },
       "_ariaLabels": {
-        "navigation": "Course navigation bar",
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
         "skipNavigation": "Skip Navigation",
-        "menuLoaded": "Menu loaded",
-        "page": "Page",
-        "pageLoaded": "Page loaded",
         "previous": "Back",
         "navigationDrawer": "Open course resources and search",
+        "close": "Close",
+        "closeDrawer": "Close Drawer",
+        "closeResources": "Close resources",
         "drawer": "Side drawer",
         "closePopup": "Close popup",
         "next": "Next",
         "done": "Done",
         "complete": "Complete",
         "incomplete": "Incomplete",
-        "correct": "Correct",
         "incorrect": "Incorrect",
+        "correct": "Correct",
         "locked": "Locked",
-        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
-        "feedbackPopUp": "Popup opened",
-        "visited": "Visited",
-        "menuIndicatorHeading": "Menu item heading "
+        "visited": "Visited"
       }
     },
     "_components": {
-      "_graphic": {
-        "ariaRegion": ""
-      },
       "_text": {
         "ariaRegion": ""
-      },
-      "_hotgraphic": {
-        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
-        "ariaPopupLabel": "Hotgraphic popup"
-      },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      },
-      "_mcq": {
-        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
-      },
-      "_jsonschema": {
-        "ariaRegion": "This question requires you to input your answer in the codebox provided. When you have done so, select the submit button below."
-      },
-      "_dragndrop": {
-        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
-      },
-      "_notify-imagegrid": {
-        "ariaRegion": "This component contains images laid out in a flexible grid."
-      },
-      "_slider": {
-        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
-        "labelStart": "Start of the scale",
-        "labelEnd": "End of the scale"
       },
       "_narrative": {
         "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
       },
       "_media": {
         "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
-        "transcriptButton": "Alternatively you can select the link below for the transcript."
+        "skipToTranscript": "Skip to transcript"
       },
-      "_media-autoplay": {
-        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
-        "transcriptButton": "Alternatively you can select the link below for the transcript.",
-        "ariaTranscriptLabel": "Transcript",
-        "ariaCaptionsLabel": "Subtitles"
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
+      "_graphic": {
+        "ariaRegion": ""
       },
       "_matching": {
         "ariaRegion": "Matching. Select from lists and then submit."
@@ -125,8 +101,19 @@
       "_textinput": {
         "ariaRegion": "Text input. Type your answer and then submit."
       },
+      "_mcq": {
+        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
+      },
       "_gmcq": {
         "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
       }
     },
     "_extensions": {
@@ -136,6 +123,11 @@
         "pageLevelProgressMenuBar": "You have completed ",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional Content"
+      }
+    },
+    "_menu": {
+      "_boxMenu": {
+        "durationLabel": "Duration:"
       }
     }
   },
@@ -296,6 +288,37 @@
   },
   "_pageLevelProgress": {
     "_isEnabled": true,
-    "_showPageCompletion": true
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_boxMenu": {
+    "_backgroundImage": {
+      "_large": "",
+      "_medium": "",
+      "_small": ""
+    },
+    "_backgroundStyles": {
+      "_backgroundRepeat": null,
+      "_backgroundSize": null,
+      "_backgroundPosition": null
+    },
+    "_menuHeader": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      }
+    }
   }
 }
