@@ -324,7 +324,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Using data to lead creative transformation at WPP",
-    "displayTitle": "Using data to lead creative transformation at WPP",
+    "displayTitle": "",
     "body": "<p>To deliver creative transformation through data, we have a four-strand approach:</p>",
     "_id": "5ef1e7e42e43fe0f9af2f0fb",
     "_parentId": "5ef1e7e42e43fe0f9af2f0ed",
@@ -336,9 +336,11 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
+    "_setCompletionOn": "allItems",
     "_items": [
       {
         "title": "Open",
