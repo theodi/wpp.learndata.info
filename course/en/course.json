@@ -141,7 +141,7 @@
       "title-family": "'WPP Medium','Open Sans', Helvetica, Arial, sans-serif",
       "body-family": "'WPP Light','Open Sans', Helvetica, Arial, sans-serif",
       "btn-family": "'WPP Light','Open Sans', Helvetica, Arial, sans-serif",
-      "font-color": "#000000",
+      "font-color": "#000050",
       "font-color-inverted": "#ffffff",
       "link": "",
       "link-inverted": "",
@@ -149,7 +149,7 @@
       "link-inverted-hover": ""
     },
     "_themeLogo": {
-      "theme-logo": "course/assets/9aca9dd54c57577d24fdad5c08e7d7bc7f3dfddd.png",
+      "theme-logo": "course/assets/b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png",
       "theme-logo-top-padding": "2rem",
       "theme-logo-width": "90%"
     },
@@ -200,9 +200,9 @@
       "validation-error-inverted": "#ffffff"
     },
     "_progress": {
-      "progress": "#9096a0",
+      "progress": "#000050",
       "progress-inverted": "#ffffff",
-      "progress-border": "#9096a0"
+      "progress-border": "#000050"
     },
     "_menu": {
       "menu-item": "",
@@ -217,13 +217,13 @@
       "menu-item-btn-color-inverted-hover": ""
     },
     "_nav": {
-      "nav": "#000000",
+      "nav": "#000050",
       "nav-inverted": "#ffffff",
       "hide-nav": false,
-      "nav-icon": "#000000",
-      "nav-icon-inverted": "#000000",
-      "nav-icon-hover": "#000000",
-      "nav-icon-inverted-hover": "#000000",
+      "nav-icon": "#ffffff",
+      "nav-icon-inverted": "#000050",
+      "nav-icon-hover": "#ffffff",
+      "nav-icon-inverted-hover": "#000050",
       "navigation-logo": "",
       "nav-logo-height": "60px",
       "nav-logo-height-mobile": "50px",
@@ -239,7 +239,7 @@
       "nav-progress-border-hover": ""
     },
     "_footer": {
-      "footer": "#000000",
+      "footer": "#000050",
       "footer-inverted": "#ffffff",
       "footer-logo": "course/assets/9752025d7e914bef6cfc3136f9f62f737cff93df.png"
     },
