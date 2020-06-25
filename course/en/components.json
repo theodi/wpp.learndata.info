@@ -22,7 +22,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -56,7 +56,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -77,8 +77,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Creating impact with data",
-    "displayTitle": "Creating impact with data",
+    "title": "How is impact created from data?",
+    "displayTitle": "How is impact created from data?",
     "body": "<p>You create impact from data by:</p>",
     "_id": "5ef1e7e42e43fe0f9af2f0f5",
     "_parentId": "5ef1e7e42e43fe0f9af2f0e5",
@@ -90,7 +90,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Select your answer then click 'submit'",
     "_items": [
@@ -557,7 +558,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -577,8 +579,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Discover more",
-    "displayTitle": "Discover more",
+    "title": "Where next?",
+    "displayTitle": "Where next?",
     "body": "<p>To help everyone discover more about how WPP is using data, there are three additional modules available, each designed to help you discover more on each strand:</p><p><strong>Getting value from data: Creative inspiration and more…</strong></p><p>Find out more about how data can be collected, shared and used not just for creative inspiration but also to help realise other benefits.</p><p><strong>Being trusted with data</strong></p><p>We believe that clients should be able to rely on our data expertise to deliver creative transformation because they trust us to be responsible with data; to hold ourselves accountable for the data-driven decisions we are making; and to do our best to protect our clients. This module looks at what mechanisms need to be in place to ensure we are trusted to be responsible with data.</p><p><strong>Working with data</strong></p><p>We know data is imperfect and it’s only as good as the questions you ask of it – good design is imperative. This module introduces some of the key aspects involved in working with data that help us ensure data is well managed and can be used to generate transformative results.</p><p>&nbsp;</p>",
     "_id": "5ef1e7e52e43fe0f9af2f102",
     "_parentId": "5ef1e7e42e43fe0f9af2f0ee",
@@ -590,7 +592,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -727,7 +730,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -760,7 +764,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
