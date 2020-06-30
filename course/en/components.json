@@ -541,7 +541,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "double-height-attribution",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -570,7 +570,7 @@
       "alt": "",
       "large": "course/en/assets/3892f6ceb262db82df84ab6b0a391dc7f6631d8d.png",
       "small": "course/en/assets/3892f6ceb262db82df84ab6b0a391dc7f6631d8d.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+      "attribution": "<a href=\"https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/\" target=\"_blank\">Adapted from the Open Data Institute's theory of change</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
   {
