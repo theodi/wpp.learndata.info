@@ -28,8 +28,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/5a445611e00125fde69c71fb3bbd1c1065752e24.png",
-      "small": "course/en/assets/5a445611e00125fde69c71fb3bbd1c1065752e24.png",
+      "large": "course/en/assets/98f36d50dd7f90c64222c12bcb58e2ba5b126cb4.png",
+      "small": "course/en/assets/98f36d50dd7f90c64222c12bcb58e2ba5b126cb4.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
@@ -43,7 +43,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "image",
+    "title": "WPP Open Logo",
     "displayTitle": "",
     "body": "",
     "_id": "5ef1e7e42e43fe0f9af2f0f2",
@@ -278,7 +278,7 @@
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
-    "mobileInstruction": "",
+    "mobileInstruction": "Click '+' to explore each case study",
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "inview",
     "_items": [
@@ -329,7 +329,7 @@
     "_disableAccessibilityState": false,
     "title": "Using data to lead creative transformation at WPP",
     "displayTitle": "",
-    "body": "<p>To deliver creative transformation through data, we have a four-strand approach:</p>",
+    "body": "<p>To deliver creative transformation through data, we have a four-strand approach.</p>",
     "_id": "5ef1e7e42e43fe0f9af2f0fb",
     "_parentId": "5ef1e7e42e43fe0f9af2f0ed",
     "_type": "component",
@@ -343,7 +343,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "",
+    "instruction": "Click '+' to find out more about each strand",
     "_setCompletionOn": "allItems",
     "_items": [
       {
@@ -740,8 +740,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/4fa875079936434c3bd7296d2e947467ad6821fa.png",
-      "small": "course/en/assets/4fa875079936434c3bd7296d2e947467ad6821fa.png",
+      "large": "course/en/assets/a35789ccc778fd791b6af032522d21382fe3bbe1.png",
+      "small": "course/en/assets/a35789ccc778fd791b6af032522d21382fe3bbe1.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
