@@ -28,8 +28,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/c8a41bb2b7a603ca4f024ee34015d73278ca05be.png",
-      "small": "course/en/assets/c8a41bb2b7a603ca4f024ee34015d73278ca05be.png",
+      "large": "course/en/assets/5a445611e00125fde69c71fb3bbd1c1065752e24.png",
+      "small": "course/en/assets/5a445611e00125fde69c71fb3bbd1c1065752e24.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
@@ -284,33 +284,36 @@
     "_items": [
       {
         "title": "Increasing online sales",
-        "body": "<p>Competing for sales in the online market is tough. There are now a large number of channels that can be used to reach potential customers including dynamic paid search, story campaigns and even direct-buy buttons that can be embedded by review websites, on blogs, and in other social media.</p><p>These all rely on real-time product data including prices and (increasingly) availability. We are seeing retailers being increasingly open with their product data, helping it reach new channels, enabling them to be more visible and competitive in the marketplace.</p><p>&nbsp;</p>",
+        "_ariaLevel": 0,
+        "body": "<p>Competing for sales in the online market is tough. There are now a large number of channels that can be used to reach potential customers including dynamic paid search, story campaigns and even direct-buy buttons that can be embedded by review websites, on blogs, and in other social media.</p><p>These all rely on real-time product data including prices and (increasingly) availability. We are seeing retailers being increasingly open with their product data, helping it reach new channels, enabling them to be more visible and competitive in the marketplace.</p>",
         "_graphic": {
-          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "src": "course/en/assets/4c2c01ab8fdaed926d3b3ab2676a63bce118624e.png",
           "alt": "",
-          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+          "attribution": "<a href=\"https://wpp.com\" target=\"_blank\">WPP</a> <span class='assetLicence'>[All rights reserved]</span>"
         },
-        "strapline": "today's best deals"
+        "strapline": "Increasing online sales"
       },
       {
-        "title": "Amazon: Building a platform for data flows",
+        "title": "Building a platform for data flows",
+        "_ariaLevel": 0,
         "body": "<p>Amazon realised early that parts of the business that collected data and held it in silos could prevent it from realising the most value from data. Amazon also realised that it should design these services to also be available externally, enabling organisations and individuals to use the data to innovate. Amazon now provides the data infrastructure for hundreds of companies who use it to connect to their markets and grow their businesses.</p>",
         "_graphic": {
-          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "src": "course/en/assets/451c6dc1e6683b6ad4c3a93fcff3b71fcdebaf6d.jpg",
           "alt": "",
-          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+          "attribution": "<a href=\"https://www.pexels.com/photo/abstract-art-blur-bright-373543/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
         },
-        "strapline": "amazon"
+        "strapline": "Building a platform for data flows"
       },
       {
-        "title": "Co-op wins best data ethics and privacy initiative",
+        "title": "Winning awards for ethical data practices",
+        "_ariaLevel": 0,
         "body": "<p>In 2019, Co-op was awarded the DatalQ Award for Best Data Ethics and Privacy Programme.</p><p>In an era where data is increasingly crucial to commercial success and customers are growing more aware of how data about them is used, this award recognises Co-op colleagues’ commitment to being trusted with the data about its members, customers, and communities, which helps ensure that the business makes informed and ethical decisions that support its values.</p><p>Co-op, which offers a diverse range of products and services, used the Open Data Institute’s Data Ethics Canvas to empower teams and help them identify and manage ethical issues when using data, while building data literacy.</p>",
         "_graphic": {
-          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "src": "course/en/assets/998ebc1d7c382c8b81f4422982efce0f4b27a07d.jpg",
           "alt": "",
-          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+          "attribution": "<a href=\"https://www.pexels.com/photo/hands-people-friends-communication-45842/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
         },
-        "strapline": "co-op"
+        "strapline": "Winning awards for ethical data practices"
       }
     ]
   },
@@ -396,8 +399,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Common barriers to achieving impact from data?",
-    "displayTitle": "Common barriers to achieving impact from data?",
+    "title": "Common barriers to achieving impact from data",
+    "displayTitle": "Common barriers to achieving impact from data",
     "body": "<p>Which of the following are common barriers to achieving impact from data?</p>",
     "_id": "5ef1e7e42e43fe0f9af2f0fc",
     "_parentId": "5ef1e7e42e43fe0f9af2f0e9",
@@ -409,7 +412,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Select two answers, then click 'submit'",
     "_items": [
@@ -545,7 +549,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "image",
+    "title": "Creating impact with data",
     "displayTitle": "",
     "body": "",
     "_id": "5ef1e7e42e43fe0f9af2f0ff",
@@ -564,9 +568,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/1c304921935ad1ee0b0853fad69f48e08af1b641.png",
-      "small": "course/en/assets/1c304921935ad1ee0b0853fad69f48e08af1b641.png",
-      "attribution": "<a href=\"https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/#1531394343108-b226e61c-833d\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/3892f6ceb262db82df84ab6b0a391dc7f6631d8d.png",
+      "small": "course/en/assets/3892f6ceb262db82df84ab6b0a391dc7f6631d8d.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
   {
@@ -717,7 +721,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "image",
+    "title": "Common barriers (2): Fearing data",
     "displayTitle": "",
     "body": "",
     "_id": "5ef1e7e52e43fe0f9af2f107",
@@ -736,8 +740,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/8484d3a867d4fa223258505d279b542c4c0b82aa.png",
-      "small": "course/en/assets/8484d3a867d4fa223258505d279b542c4c0b82aa.png",
+      "large": "course/en/assets/4fa875079936434c3bd7296d2e947467ad6821fa.png",
+      "small": "course/en/assets/4fa875079936434c3bd7296d2e947467ad6821fa.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
@@ -751,7 +755,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "WPP bubbles",
+    "title": "WPP Data Strategy",
     "displayTitle": "",
     "body": "",
     "_id": "5ef21c032e43fe0f9af2f13c",
@@ -770,9 +774,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+      "large": "course/en/assets/51e57ebb8f52dffec1ee5163bdc9731d69ab31e7.png",
+      "small": "course/en/assets/51e57ebb8f52dffec1ee5163bdc9731d69ab31e7.png",
+      "attribution": "<a href=\"https://wpp.com\" target=\"_blank\">WPP</a> <span class='assetLicence'>[All rights reserved]</span>"
     }
   }
 ]

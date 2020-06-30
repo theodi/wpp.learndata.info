@@ -24,6 +24,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -67,6 +70,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -112,6 +118,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -156,6 +165,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png",
@@ -176,77 +188,11 @@
     }
   },
   {
-    "title": "Data variety is our superpower",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 5,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5ef1e7e42e43fe0f9af2f0e7",
-    "_parentId": "5ef1e7e42e43fe0f9af2f0e2",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    }
-  },
-  {
-    "title": "Q2",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-three inverted",
-    "_trackingId": 6,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5ef1e7e42e43fe0f9af2f0e8",
-    "_parentId": "5ef1e7e42e43fe0f9af2f0e2",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png",
-        "_medium": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png",
-        "_small": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png"
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
     "title": "Q3",
     "displayTitle": "",
     "body": "",
     "_classes": "color-two",
-    "_trackingId": 7,
+    "_trackingId": 5,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -265,6 +211,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -290,7 +239,7 @@
     "displayTitle": "Common barriers (1): Hoarding data",
     "body": "",
     "_classes": "color-two inverted",
-    "_trackingId": 8,
+    "_trackingId": 6,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -309,6 +258,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -334,7 +286,7 @@
     "displayTitle": "Common barriers (2): Fearing data",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 9,
+    "_trackingId": 7,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -353,6 +305,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -378,7 +333,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three inverted",
-    "_trackingId": 10,
+    "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -397,6 +352,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -418,11 +376,58 @@
     }
   },
   {
+    "title": "Data variety is our superpower",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-three",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5ef1e7e42e43fe0f9af2f0e7",
+    "_parentId": "5ef1e7e42e43fe0f9af2f0e2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Using data to lead creative transformation at WPP",
     "displayTitle": "Using data to lead creative transformation at WPP",
     "body": "",
-    "_classes": "color-three",
-    "_trackingId": 11,
+    "_classes": "color-three inverted",
+    "_trackingId": 10,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -441,6 +446,56 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png",
+        "_medium": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png",
+        "_small": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Q2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-three",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5ef1e7e42e43fe0f9af2f0e8",
+    "_parentId": "5ef1e7e42e43fe0f9af2f0e2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -485,6 +540,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {

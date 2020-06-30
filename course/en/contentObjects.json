@@ -36,6 +36,14 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",

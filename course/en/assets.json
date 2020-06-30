@@ -1,42 +1,10 @@
 {
-  "1c304921935ad1ee0b0853fad69f48e08af1b641.png": {
-    "title": "Theory of Change - Impact.png",
-    "description": "Theory of Change - Impact",
-    "source": "https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/#1531394343108-b226e61c-833d",
-    "licence": "CC-BY",
-    "attribution": "cc-by",
-    "tags": []
-  },
-  "3267fe06e17b267d0b9b38318876b879a8a7f031.jpg": {
-    "title": "Rectangle placeholder image",
-    "description": "Rectangle placeholder image",
-    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
-    "licence": "CC0",
-    "attribution": "Adapt eLearning",
-    "tags": []
-  },
   "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
     "title": "Square image placeholder",
     "description": "Square image placeholder",
     "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
     "licence": "CC0",
     "attribution": "Adapt eLearning",
-    "tags": []
-  },
-  "8484d3a867d4fa223258505d279b542c4c0b82aa.png": {
-    "title": "ODI wasteland",
-    "description": "ODI wasteland theory of change",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
-  "c8a41bb2b7a603ca4f024ee34015d73278ca05be.png": {
-    "title": "ODI Oil Field hoarding",
-    "description": "ODI Oil Field hoarding theory of change",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "The Open Data Institute",
     "tags": []
   },
   "96b049a9d7f3e16988c9ed98403016e1687bd57b.png": {
@@ -77,6 +45,62 @@
     "source": "https://wpp.com",
     "licence": "All rights reserved",
     "attribution": "WPP",
+    "tags": []
+  },
+  "51e57ebb8f52dffec1ee5163bdc9731d69ab31e7.png": {
+    "title": "WPP Data Strategy - Diagram - 600x600.png",
+    "description": "WPP Data Strategy - Diagram - 600x600.png",
+    "source": "https://wpp.com",
+    "licence": "All rights reserved",
+    "attribution": "WPP",
+    "tags": []
+  },
+  "3892f6ceb262db82df84ab6b0a391dc7f6631d8d.png": {
+    "title": "WPP - ODI Theory of Change - Positive",
+    "description": "WPP - ODI Theory of Change - Positive",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "4fa875079936434c3bd7296d2e947467ad6821fa.png": {
+    "title": "ODI Theory of Change - Fearing",
+    "description": "ODI Theory of Change - Fearing",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "5a445611e00125fde69c71fb3bbd1c1065752e24.png": {
+    "title": "WPP ODI Theory of Change - Hoarding",
+    "description": "WPP ODI Theory of Change - Hoarding",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "4c2c01ab8fdaed926d3b3ab2676a63bce118624e.png": {
+    "title": "WPP People Map",
+    "description": "WPP People Map",
+    "source": "https://wpp.com",
+    "licence": "All rights reserved",
+    "attribution": "WPP",
+    "tags": []
+  },
+  "451c6dc1e6683b6ad4c3a93fcff3b71fcdebaf6d.jpg": {
+    "title": "Connected blue lights",
+    "description": "Connected blue lights",
+    "source": "https://www.pexels.com/photo/abstract-art-blur-bright-373543/",
+    "licence": "CC0",
+    "attribution": "Pixabay",
+    "tags": []
+  },
+  "998ebc1d7c382c8b81f4422982efce0f4b27a07d.jpg": {
+    "title": "Hands holding, trust, community",
+    "description": "Hands holding, trust, community",
+    "source": "https://www.pexels.com/photo/hands-people-friends-communication-45842/",
+    "licence": "CC0",
+    "attribution": "Pixabay",
     "tags": []
   }
 }

@@ -123,6 +123,22 @@
         "pageLevelProgressMenuBar": "You have completed ",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional Content"
+      },
+      "_aboutPage": {
+        "linkText": "",
+        "titleText": "",
+        "contactEMail": "",
+        "contactLinkText": "",
+        "aboutCredit": "",
+        "SL_text": "<p>Content created for WPP by The <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a></p>",
+        "SL_facebook": "",
+        "SL_flickr": "",
+        "SL_github": "",
+        "SL_scribd": "",
+        "SL_soundcloud": "",
+        "SL_twitter": "",
+        "SL_vimeo": "",
+        "SL_youtube": ""
       }
     },
     "_menu": {
@@ -291,6 +307,33 @@
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
+  },
+  "_aboutPage": {
+    "_items": []
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "title": "Privacy policy",
+        "link": "https://www.wpp.com/privacy-policy"
+      },
+      {
+        "title": "Terms and conditions",
+        "link": "https://www.wpp.com/terms-and-conditions"
+      },
+      {
+        "title": "Cookies",
+        "link": "https://www.wpp.com/cookies"
+      },
+      {
+        "title": "Accessibility",
+        "link": "https://www.wpp.com/accessibility"
+      }
+    ]
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60
   },
   "_boxMenu": {
     "_backgroundImage": {

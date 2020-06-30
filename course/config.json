@@ -31,7 +31,7 @@
       "_notify": 1
     }
   },
-  "__v": 69,
+  "__v": 72,
   "_completionCriteria": {
     "_requireContentCompleted": true,
     "_requireAssessmentCompleted": false
@@ -51,8 +51,33 @@
     "medium": 760,
     "large": 900
   },
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_shouldSubmitScore": true,
+      "_shouldStoreResponses": true,
+      "_shouldRecordInteractions": true
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "failed",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true,
+      "_manifestIdentifier": "adapt_manifest",
+      "_exitStateIfIncomplete": "auto",
+      "_exitStateIfComplete": "auto"
+    }
+  },
   "_devtools": {
-    "_isEnabled": false
+    "_isEnabled": true
   },
   "build": {
     "includes": [
@@ -65,7 +90,11 @@
       "adapt-contrib-text",
       "adapt-contrib-pageLevelProgress",
       "adapt-contrib-tutor",
-      "adapt-devtools"
+      "adapt-devtools",
+      "adapt-contrib-spoor",
+      "adapt-contrib-aboutPage",
+      "adapt-odi-footerLink",
+      "adapt-contrib-assessment"
     ]
   }
 }
