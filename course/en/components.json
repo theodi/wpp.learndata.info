@@ -830,7 +830,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -946,8 +946,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Data inspires and informs the creative process",
-    "displayTitle": "Data inspires and informs the creative process",
+    "title": "Data in action: inspiring and informing the creative process",
+    "displayTitle": "Data in action: inspiring and informing the creative process",
     "body": "<p dir=\"ltr\">Used in creative ways, data can spark emotions. This helps improve the engagement people have with data, reducing fear and increasing intrigue.</p><p dir=\"ltr\">When using data creatively an essential part of the process is deciding how data should be processed and how the outputs should be shared. Data impacts all areas of our lives but this is often difficult to represent and demystify. Collaboration between artists, creatives and technical experts, such as data scientists can help. These collaborations can lead to new creative work, including artworks, poetry and music.</p>",
     "_id": "5f07190f1992c400eb9ed970",
     "_parentId": "5f0718e81992c400eb9ed96f",
@@ -968,7 +968,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://player.vimeo.com/video/401099041",
+      "source": "https://player.vimeo.com/video/437180251",
       "type": "video/vimeo",
       "poster": "",
       "cc": []
@@ -997,15 +997,15 @@
   {
     "_component": "narrative",
     "_classes": "caseStudies1",
-    "_isOptional": false,
+    "_isOptional": true,
     "_isAvailable": true,
     "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Data inspires and informs the creative process",
-    "displayTitle": "Data inspires and informs the creative process",
+    "title": "Read more: inspiring and informing the creative process",
+    "displayTitle": "Read more: inspiring and informing the creative process",
     "body": "",
     "_id": "5f071a831992c400eb9ed972",
     "_parentId": "5f071a5b1992c400eb9ed971",
@@ -1193,8 +1193,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Reaching new markets and audiences",
-    "displayTitle": "Reaching new markets and audiences",
+    "title": "Data in action: reaching new markets and audiences",
+    "displayTitle": "Data in action: reaching new markets and audiences",
     "body": "<p>Data serves as a material and inspiration for creative work. We also need to data to inform how we evolve ideas into content and campaigns that make an impact for our clients.&nbsp;</p><p>Find our how in the video below.</p>",
     "_id": "5f071bc51992c400eb9ed97b",
     "_parentId": "5f071bb91992c400eb9ed97a",
@@ -1251,8 +1251,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Reaching new markets and audiences",
-    "displayTitle": "Reaching new markets and audiences",
+    "title": "Read more: reaching new markets and audiences",
+    "displayTitle": "Read more: reaching new markets and audiences",
     "body": "",
     "_id": "5f071cea1992c400eb9ed97d",
     "_parentId": "5f071cd91992c400eb9ed97c",
@@ -1318,7 +1318,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Increasing the value of data",
-    "displayTitle": "Increasing the value of data",
+    "displayTitle": "",
     "body": "<p>Why do some businesses struggle to get value from data?</p>",
     "_id": "5f071d681992c400eb9ed982",
     "_parentId": "5f071d531992c400eb9ed981",
@@ -1425,7 +1425,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1446,7 +1446,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Connected data quote",
+    "title": "Getting connected",
     "displayTitle": "",
     "body": "<blockquote><p><strong>“A single piece of data only becomes useful – and therefore valuable – once combined with other data.”</strong></p><p><strong>-- The ODI</strong></p></blockquote>",
     "_id": "5f071ef51992c400eb9ed988",
@@ -1663,8 +1663,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Data in action: Insights, refinement and targeted marketing",
-    "displayTitle": "Data in action: Insights, refinement and targeted marketing",
+    "title": "Data in action: insights, refinement and targeted marketing",
+    "displayTitle": "Data in action: insights, refinement and targeted marketing",
     "body": "",
     "_id": "5f0720a61992c400eb9ed994",
     "_parentId": "5f07209d1992c400eb9ed993",
@@ -1798,7 +1798,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1819,9 +1819,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Data on the web",
-    "displayTitle": "Data on the web",
-    "body": "<p>All data available on the web is open and free to use?</p>",
+    "title": "Is all data on the web free to use?",
+    "displayTitle": "Is all data on the web free to use?",
+    "body": "<p>All data available on the web is open and free to use. True or false?</p>",
     "_id": "5f084335e19cd3006719eceb",
     "_parentId": "5f0842fee19cd3006719ecea",
     "_type": "component",
@@ -2040,7 +2040,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -2123,8 +2123,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Miniquiz - Question 1",
-    "displayTitle": "Miniquiz - Question 1",
+    "title": "Question 1",
+    "displayTitle": "Question 1",
     "body": "<p>We should be transparent with everyone about what data we hold, how it is used and the limitations of the data and its use. True or false?</p>",
     "_id": "5f0847c8e19cd3006719ecf8",
     "_parentId": "5f084257e19cd3006719ece3",
@@ -2236,8 +2236,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Miniquiz - Question 2",
-    "displayTitle": "Miniquiz - Question 2",
+    "title": "Question 2",
+    "displayTitle": "Question 2",
     "body": "<p>The way AI systems work should be kept secret. True or false?</p>",
     "_id": "5f085170e19cd3006719ecfe",
     "_parentId": "5f085170e19cd3006719ecfd",
@@ -2321,8 +2321,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Miniquiz - Question 3",
-    "displayTitle": "Miniquiz - Question 3",
+    "title": "Question 3",
+    "displayTitle": "Question 3",
     "body": "<p>We only need to be concerned with ethics, equality and human rights when processing personal data. True or false?</p>",
     "_id": "5f085179e19cd3006719ed01",
     "_parentId": "5f085179e19cd3006719ed00",
@@ -2406,8 +2406,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Miniquiz - Question 5",
-    "displayTitle": "Miniquiz - Question 5",
+    "title": "Question 5",
+    "displayTitle": "Question 5",
     "body": "<p>Whose responsibility is it to ensure we are ethical with data?</p>",
     "_id": "5f08517de19cd3006719ed04",
     "_parentId": "5f08517de19cd3006719ed03",
@@ -2501,8 +2501,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Miniquiz - Question 4",
-    "displayTitle": "Miniquiz - Question 4",
+    "title": "Question 4",
+    "displayTitle": "Question 4",
     "body": "<p>New AI systems tout the ability for machines to learn from data and make decisions autonomously. Who is responsible for the decisions these systems make?</p>",
     "_id": "5f08517ee19cd3006719ed06",
     "_parentId": "5f08517ee19cd3006719ed05",
@@ -2625,7 +2625,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Data ethics: 4 key areas",
+    "title": "Identifying and managing ethical concerns",
     "displayTitle": "",
     "body": "",
     "_id": "5f085390e19cd3006719ed0a",
@@ -2710,7 +2710,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -2824,7 +2824,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -2886,7 +2886,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -3077,7 +3077,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
