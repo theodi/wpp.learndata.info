@@ -94,11 +94,246 @@
     }
   },
   {
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f0841cce19cd3006719ece1",
+    "_parentId": "5f0841cce19cd3006719ece0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Identifying and managing ethical concerns",
+    "displayTitle": "Identifying and managing ethical concerns",
+    "body": "<p>To become trusted with data, we will be putting together our own WPP guidelines and rolling out training and resources for everyone. Our ethics guidelines take many queues from the Open Data Institute's Data Ethics Canvas which considers four key areas.&nbsp; We used the first two areas (data and impact) of this canvas when putting together our own WPP guidelines, and we'll be using the last two (engagement and process) when rolling them out to agencies.</p>",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f085370e19cd3006719ed08",
+    "_parentId": "5f084261e19cd3006719ece4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Miniquiz intro",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "section-banner",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f0864b41b9bc4005e6b6879",
+    "_parentId": "5f084257e19cd3006719ece2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Assessment results",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f0867121b9bc4005e6b687f",
+    "_parentId": "5f0867121b9bc4005e6b687e",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f08785e1b9bc4005e6b6886",
+    "_parentId": "5f08785e1b9bc4005e6b6885",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Where data sits in our landscape",
     "displayTitle": "",
     "body": "",
     "_classes": "inverted color-two",
-    "_trackingId": 3,
+    "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -145,7 +380,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-one inverted",
-    "_trackingId": 4,
+    "_trackingId": 9,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -188,11 +423,152 @@
     }
   },
   {
+    "title": "Miniquiz Q1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f084257e19cd3006719ece3",
+    "_parentId": "5f084257e19cd3006719ece2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Identifying and managing ethical concerns",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;text-decoration: underline;\"><a style=\"cursor: pointer;font-size: 1.3rem;\" onclick=\"$('.canvas').toggleClass('u-display-none');$(this).parent().hide();\">Click here to view and download a copy of the ODI Data Ethics Canvas</a></p>",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f084261e19cd3006719ece5",
+    "_parentId": "5f084261e19cd3006719ece4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Data you find online",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f0842fee19cd3006719ecea",
+    "_parentId": "5f0841cce19cd3006719ece0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q1",
     "displayTitle": "",
     "body": "",
     "_classes": "color-two",
-    "_trackingId": 5,
+    "_trackingId": 13,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -239,7 +615,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 6,
+    "_trackingId": 14,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -282,11 +658,152 @@
     }
   },
   {
+    "title": "TODO: Data Spectrum",
+    "displayTitle": "TODO: Data Spectrum",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f08441ae19cd3006719ecec",
+    "_parentId": "5f0841cce19cd3006719ece0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Is more data better?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f084474e19cd3006719ecef",
+    "_parentId": "5f084261e19cd3006719ece4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Miniquiz Q2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f085170e19cd3006719ecfd",
+    "_parentId": "5f084257e19cd3006719ece2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Creating impact with data",
     "displayTitle": "",
     "body": "",
     "_classes": "color-two inverted",
-    "_trackingId": 7,
+    "_trackingId": 18,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -333,7 +850,7 @@
     "displayTitle": "",
     "body": "<p style=\"text-align: center;text-decoration: underline;\"><a style=\"cursor: pointer;font-size: 1.3rem;\" onclick=\"$('.caseStudies1').toggleClass('u-display-none');$(this).parent().hide();\">Click here to read more about the case studies in the video</a></p>",
     "_classes": "color-one inverted",
-    "_trackingId": 8,
+    "_trackingId": 19,
     "instruction": "",
     "_isOptional": true,
     "_isAvailable": true,
@@ -376,11 +893,152 @@
     }
   },
   {
+    "title": "TODO: Different types of data in the WPP Open Data Catalog",
+    "displayTitle": "TODO: Different types of data in the WPP Open Data Catalog",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f084426e19cd3006719eced",
+    "_parentId": "5f0841cce19cd3006719ece0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Data ethics case studies",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f084744e19cd3006719ecf6",
+    "_parentId": "5f084261e19cd3006719ece4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Miniquiz Q3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f085179e19cd3006719ed00",
+    "_parentId": "5f084257e19cd3006719ece2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q3",
     "displayTitle": "",
     "body": "",
     "_classes": "color-two",
-    "_trackingId": 9,
+    "_trackingId": 23,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -427,7 +1085,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 10,
+    "_trackingId": 24,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -470,11 +1128,152 @@
     }
   },
   {
+    "title": "Respecting rights of data subjects",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 25,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f0844c0e19cd3006719ecf0",
+    "_parentId": "5f0841cce19cd3006719ece0",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Miniquiz Q4",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 26,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f08517ee19cd3006719ed05",
+    "_parentId": "5f084257e19cd3006719ece2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Engaging consumers in conversations about trust",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 27,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f087d801b9bc4005e6b688b",
+    "_parentId": "5f084261e19cd3006719ece4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Common barriers (1): Hoarding data",
     "displayTitle": "Common barriers (1): Hoarding data",
     "body": "",
     "_classes": "color-two inverted",
-    "_trackingId": 11,
+    "_trackingId": 28,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -521,7 +1320,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three inverted",
-    "_trackingId": 12,
+    "_trackingId": 29,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -564,11 +1363,58 @@
     }
   },
   {
+    "title": "Miniquiz Q5",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f08517de19cd3006719ed03",
+    "_parentId": "5f084257e19cd3006719ece2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Common barriers (2): Fearing data",
     "displayTitle": "Common barriers (2): Fearing data",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 13,
+    "_trackingId": 31,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -615,7 +1461,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 14,
+    "_trackingId": 32,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -662,7 +1508,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three inverted",
-    "_trackingId": 15,
+    "_trackingId": 33,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -709,7 +1555,7 @@
     "displayTitle": "",
     "body": "<p style=\"text-align: center;text-decoration: underline;\"><a style=\"cursor: pointer;font-size: 1.3rem;\" onclick=\"$('.caseStudies2').toggleClass('u-display-none');$(this).parent().hide();\">Click here to read more about the case studies in the video</a></p>",
     "_classes": "color-three inverted",
-    "_trackingId": 16,
+    "_trackingId": 34,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -756,7 +1602,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 17,
+    "_trackingId": 35,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -803,7 +1649,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-one",
-    "_trackingId": 18,
+    "_trackingId": 36,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -850,7 +1696,7 @@
     "displayTitle": "Using data to lead creative transformation at WPP",
     "body": "",
     "_classes": "color-three inverted",
-    "_trackingId": 19,
+    "_trackingId": 37,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -897,7 +1743,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-one inverted",
-    "_trackingId": 20,
+    "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -944,7 +1790,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 21,
+    "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -991,7 +1837,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-one",
-    "_trackingId": 22,
+    "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1038,7 +1884,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-two inverted",
-    "_trackingId": 23,
+    "_trackingId": 41,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1085,7 +1931,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three inverted",
-    "_trackingId": 24,
+    "_trackingId": 42,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1132,7 +1978,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 25,
+    "_trackingId": 43,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1179,7 +2025,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three inverted",
-    "_trackingId": 26,
+    "_trackingId": 44,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1226,7 +2072,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-one",
-    "_trackingId": 27,
+    "_trackingId": 45,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

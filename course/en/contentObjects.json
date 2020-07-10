@@ -75,8 +75,8 @@
     }
   },
   {
-    "title": "Data for creative transformation",
-    "displayTitle": "Data for creative transformation",
+    "title": "Using data for creative transformation",
+    "displayTitle": "Using data for creative transformation",
     "body": "<p dir=\"ltr\">Our clients pay for high-quality data products and services that deliver value: value that is created by releasing data from silos and putting it to work.</p><p dir=\"ltr\">This module looks at how data provides new perspectives on markets, consumers and brands. We consider how these new perspectives get results when they shape creative ideas, make our work more efficient, and deliver better results for our clients.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
@@ -94,6 +94,81 @@
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
     "_id": "5f070fe81992c400eb9ed964",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Being trusted with data",
+    "displayTitle": "Being trusted with data",
+    "body": "<p dir=\"ltr\">We believe that clients should be able to rely on our data expertise to deliver creative transformation because they trust us: to be responsible with data; to hold ourselves accountable for the data-driven decisions we are making; and to do our best to protect our clients.&nbsp;</p><p dir=\"ltr\">This module looks at what mechanisms need to be in place to ensure we are trusted to be responsible with data.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f0841cce19cd3006719ecdf",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {

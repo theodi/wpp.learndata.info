@@ -64,7 +64,7 @@
     }
   },
   {
-    "title": "Data for creative transformation",
+    "title": "Using data for creative transformation",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -77,6 +77,326 @@
     "_ariaLevel": 0,
     "_id": "5f070fe81992c400eb9ed965",
     "_parentId": "5f070fe81992c400eb9ed964",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Respecting the rights of organisations and individuals",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two invert-even",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f0841cce19cd3006719ece0",
+    "_parentId": "5f0841cce19cd3006719ecdf",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Miniquiz - being transparent with how data is collected, shared and used",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one invert-odd",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f084257e19cd3006719ece2",
+    "_parentId": "5f0841cce19cd3006719ecdf",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "trust_miniquiz",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      }
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Assessment results",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one invert-odd",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f0867121b9bc4005e6b687e",
+    "_parentId": "5f0841cce19cd3006719ecdf",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Data ethics",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-four invert-even",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f084261e19cd3006719ece4",
+    "_parentId": "5f0841cce19cd3006719ecdf",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Footer",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one invert-odd",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f08785e1b9bc4005e6b6885",
+    "_parentId": "5f0841cce19cd3006719ecdf",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,

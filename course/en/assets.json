@@ -1,4 +1,25 @@
 {
+  "e303e33c52b96c12da48db19daab649529718970.png": {
+    "title": "summary-icon-lga-pink.png",
+    "description": "Summary clipboard",
+    "source": "http://www.shutterstock.com/pic-189810137.html",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Kritchanut",
+    "tags": [
+      {
+        "title": "Summary",
+        "_id": "5ee397b3b045644557c81b38"
+      },
+      {
+        "title": "LGA",
+        "_id": "5ee397aeb045644557c81aef"
+      },
+      {
+        "title": "Clipboard",
+        "_id": "5ee397a2b045644557c81a58"
+      }
+    ]
+  },
   "3267fe06e17b267d0b9b38318876b879a8a7f031.jpg": {
     "title": "Rectangle placeholder image",
     "description": "Rectangle placeholder image",
@@ -117,6 +138,22 @@
     "source": "https://theodi.org",
     "licence": "CC-BY-SA",
     "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "c993ffb7b18386102e527ec0503cb9a554b0d50b.jpg": {
+    "title": "ODI Data Ethics Canvas - Learning team derivative",
+    "description": "ODI Data Ethics Canvas - Learning team derivative",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "7da5cb60d81ae40e7521d701ebfd687698f57418.gif": {
+    "title": "ODI Data Ethics Canvas Learning team derivative",
+    "description": "ODI Data Ethics Canvas Learning team derivative",
+    "source": "https://drive.google.com/file/d/1O-3KPr3pmA69ZS8rnUHOTETB6nJG4u18/view?usp=sharing",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Instutute",
     "tags": []
   }
 }

@@ -1196,6 +1196,59 @@ this["Handlebars"]["templates"]["accordion"] = Handlebars.template({"1":function
     + "\n  </div>\n</div>\n";
 },"usePartial":true,"useData":true,"useDepths":true});
 
+this["Handlebars"]["templates"]["assessmentResults"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {}), lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "    <div class=\"component__feedback assessmentresults__feedback\">\n      <div class=\"component__feedback-inner assessmentresults__feedback-inner\">\n\n"
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,(depth0 != null ? lookupProperty(depth0,"retryFeedback") : depth0),{"name":"if","hash":{},"fn":container.program(2, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":14,"column":8},"end":{"line":20,"column":15}}})) != null ? stack1 : "")
+    + "\n        <button class=\"btn-text assessmentresults__retry-btn js-assessment-retry-btn\">\n          <span>\n"
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,((stack1 = (depth0 != null ? lookupProperty(depth0,"_retry") : depth0)) != null ? lookupProperty(stack1,"button") : stack1),{"name":"if","hash":{},"fn":container.program(4, data, 0),"inverse":container.program(6, data, 0),"data":data,"loc":{"start":{"line":24,"column":12},"end":{"line":28,"column":19}}})) != null ? stack1 : "")
+    + "          </span>\n        </button>\n\n      </div>\n    </div>\n";
+},"2":function(container,depth0,helpers,partials,data) {
+    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "        <div class=\"assessmentresults__retry-feedback\">\n          <div class=\"assessmentresults__retry-feedback-inner\">\n            "
+    + ((stack1 = (lookupProperty(helpers,"compile")||(depth0 && lookupProperty(depth0,"compile"))||container.hooks.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? lookupProperty(depth0,"retryFeedback") : depth0),{"name":"compile","hash":{},"data":data,"loc":{"start":{"line":17,"column":12},"end":{"line":17,"column":39}}})) != null ? stack1 : "")
+    + "\n          </div>\n        </div>\n";
+},"4":function(container,depth0,helpers,partials,data) {
+    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "            "
+    + container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? lookupProperty(depth0,"_retry") : depth0)) != null ? lookupProperty(stack1,"button") : stack1), depth0))
+    + "\n";
+},"6":function(container,depth0,helpers,partials,data) {
+    return "            Retry\n";
+},"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return container.escapeExpression(((helper = (helper = lookupProperty(helpers,"import_globals") || (depth0 != null ? lookupProperty(depth0,"import_globals") : depth0)) != null ? helper : container.hooks.helperMissing),(typeof helper === "function" ? helper.call(alias1,{"name":"import_globals","hash":{},"data":data,"loc":{"start":{"line":2,"column":0},"end":{"line":2,"column":18}}}) : helper)))
+    + "\n\n<div class=\"component__inner assessmentresults__inner\">\n\n"
+    + ((stack1 = container.invokePartial(lookupProperty(partials,"component"),depth0,{"name":"component","data":data,"indent":"  ","helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "")
+    + "\n  <div class=\"component__widget assessmentresults__widget\">\n\n"
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,(depth0 != null ? lookupProperty(depth0,"_isRetryEnabled") : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":10,"column":4},"end":{"line":34,"column":11}}})) != null ? stack1 : "")
+    + "\n  </div>\n\n</div>\n";
+},"usePartial":true,"useData":true});
+
 this["Handlebars"]["templates"]["graphic"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     return " has-attribution";
 },"3":function(container,depth0,helpers,partials,data) {

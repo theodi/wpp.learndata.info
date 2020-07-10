@@ -789,8 +789,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Data for creative transformation",
-    "displayTitle": "Data for creative transformation",
+    "title": "Using data for creative transformation",
+    "displayTitle": "Using data for creative transformation",
     "body": "<p dir=\"ltr\">Our clients pay for high-quality data products and services that deliver value: value that is created by releasing data from silos and putting it to work.</p><p dir=\"ltr\">This module explores how data:</p><ul dir=\"ltr\"><li>inspires and informs the creative process</li><li>helps us reach new markets and audiences</li><li>provides new insights into markets, consumers and brands</li><li>makes a greater impact when accessed, used and shared more effectively</li><li>makes our work more efficient and gets better results for our clients.</li></ul>",
     "_id": "5f0710581992c400eb9ed967",
     "_parentId": "5f070fe81992c400eb9ed966",
@@ -1746,5 +1746,1263 @@
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Being trusted with data",
+    "displayTitle": "Being trusted with data",
+    "body": "<p>WPP recognises its obligations to its stakeholders including shareowners, clients, its own people, suppliers and consumers.&nbsp;</p><p>This module looks at what mechanisms need to be in place to ensure we are trusted to be responsible with data.</p><p>Specifically, this module looks at the importance of:&nbsp;</p><ul><li>respecting the rights of organisations and individuals</li><li>being transparent with how data is collected, shared and used</li><li>data ethics.</li></ul>",
+    "_id": "5f0842b2e19cd3006719ece6",
+    "_parentId": "5f0841cce19cd3006719ece1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Intro logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f0842b5e19cd3006719ece7",
+    "_parentId": "5f0841cce19cd3006719ece1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png",
+      "small": "course/en/assets/b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png",
+      "attribution": "<a href=\"https://wpp.com\" target=\"_blank\">WPP</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data on the web",
+    "displayTitle": "Data on the web",
+    "body": "<p>All data available on the web is open and free to use?</p>",
+    "_id": "5f084335e19cd3006719eceb",
+    "_parentId": "5f0842fee19cd3006719ecea",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Just because something can be accessed over the internet does not mean that anyone is free to use that data. For example, it is easy to screenshot or download company logos but these cannot then simply be used freely by anyone – the owner must grant permission for use, unless it is published under an open licence.</p><p>The same is true for data.&nbsp;</p><p>Our code of conduct states that we must <strong>treat data in accordance with all applicable laws, regulations and treaties</strong>.&nbsp;</p><p>We must respect both the rights of data owners and also any individuals the data may be about.<br />&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Just because something can be accessed over the internet does not mean that anyone is free to use that data. For example, it is easy to screenshot or download company logos but these cannot then simply be used freely by anyone – the owner must grant permission for use, unless it is published under an open licence.</p><p>The same is true for data.&nbsp;</p><p>Our code of conduct states that we must <strong>treat data in accordance with all applicable laws, regulations and treaties</strong>.&nbsp;</p><p>We must respect both the rights of data owners and also any individuals the data may be about.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Respecting rights of data subjects",
+    "displayTitle": "Respecting rights of data subjects",
+    "body": "<p>As well as respecting the rights of data owners, we must also respect the rights of data subjects: the people the data is about.&nbsp;</p><p>Data security and privacy are increasingly high-profile topics for regulators, consumers and our clients.</p><p>We know that data about consumers can be used as a powerful tool to drive sales, but we are also committed to being transparent with consumers about how data about them is collected, used and shared.&nbsp;</p><p><span style=\"background-color:#FFFF00\">To learn more about data privacy and rights we recommend looking at the WPP Data Code of Conduct, ethics statements and our WPP guidelines and principles. Several agencies also offer client consultancy and you can find out more here. &nbsp;</span></p>",
+    "_id": "5f0844d6e19cd3006719ecf1",
+    "_parentId": "5f0844c0e19cd3006719ecf0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Managing bias in data",
+    "displayTitle": "Managing bias in data",
+    "body": "<p>Ethical data challenges are often faced as a result of data being biased, for example only containing data relating to certain demographics of geographic areas.&nbsp;</p><p>What can you do to help reduce the risk of&nbsp;biased data leading to unethical results?</p>",
+    "_id": "5f08452de19cd3006719ecf2",
+    "_parentId": "5f084474e19cd3006719ecef",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select two answers, then click 'submit'",
+    "_items": [
+      {
+        "text": "Not use the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Collect more data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Be open about the biases and limitations of the data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Collect a wider variety of data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">Having more data or not using the data are not always solutions to ethical challenges. Data variety is our superpower and this coupled with being open about the limitations in the data will help us be more trusted with data.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Having more data or not using the data are not always solutions to ethical challenges. Data variety is our superpower and this coupled with being open about the limitations in the data will help us be more trusted with data.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Is more data better",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f08452fe19cd3006719ecf3",
+    "_parentId": "5f084474e19cd3006719ecef",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Case studies in data ethics",
+    "displayTitle": "Case studies in data ethics",
+    "body": "<p>Explore the case studies below to find out how even non-personal data can lead to inequitable and unethical outcomes.&nbsp;<br />&nbsp;</p>",
+    "_id": "5f084752e19cd3006719ecf7",
+    "_parentId": "5f084744e19cd3006719ecf6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Case study 1: PokemonGo! A real-world game",
+        "body": "<p>Within days of the popular augmented reality game PokemonGo being released many felt excluded. It was discovered that many areas were deprived of PokeStops and these appeared to be in lower-income and predominantly ethnic minority neighbourhoods. Investigations found that PokeStops had been crowdsourced from a previous game called ‘Ingress’ which was primarily played by people from white and higher-income neighbourhoods This limitation in the data led to accusations of bias, even though the data was not personal data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Case study 2: Automated consumer profiling - car insurance",
+        "body": "<p>A 2018 investigation in the UK found that people with the first name ‘Mohammed’ were charged up to £1,000 more to insure their cars than someone with the first name ‘John’. The investigation compared insurance quotes that contained exactly the same details for everything but first name. They discovered that the algorithms that calculate insurance quotes appear to correlate first names with level of risk. Although the exact reason for this is not known, experts suspect that the source data used by the decision-making system &nbsp;does not contain a wide variety of data for certain names, and therefore makes &nbsp;decisions based on a limited number of existing profiles with the same name. Remember, data variety is our superpower.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Case study 3: Good Samaritan – suicidal tweets",
+        "body": "<p>A charity developed a tool that analysed the sentiment of a user’s tweets, assessed whether they are suicidal and alerted friends. While this is an admirable project and a potentially life-saving tool, it ultimately proved to be both illegal, inaccurate and too controversial. Assessing someone's mental state means you are dealing with sensitive personal data that should not simply be broadcast to friends without careful consideration. We also know from our work with Investec on #MoreThanData, that using data to profile individuals, as opposed to groups, is often inaccurate and leads to breakdown in trust.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Miniquiz - Question 1",
+    "displayTitle": "Miniquiz - Question 1",
+    "body": "<p>We should be transparent with everyone about what data we hold, how it is used and the limitations of the data and its use. True or false?</p>",
+    "_id": "5f0847c8e19cd3006719ecf8",
+    "_parentId": "5f084257e19cd3006719ece3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>We have a responsibility to be transparent to society and our clients about how we use data. We should be transparent about its use and consider its impact on our people, clients, investors, partners, the wider community and the environment.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>We have a responsibility to be transparent to society and our clients about how we use data. We should be transparent about its use and consider its impact on our people, clients, investors, partners, the wider community and the environment.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "5f084832e19cd3006719ecfa",
+    "_parentId": "5f08441ae19cd3006719ecec",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "5f084836e19cd3006719ecfb",
+    "_parentId": "5f084426e19cd3006719eced",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Miniquiz - Question 2",
+    "displayTitle": "Miniquiz - Question 2",
+    "body": "<p>The way AI systems work should be kept secret. True or false?</p>",
+    "_id": "5f085170e19cd3006719ecfe",
+    "_parentId": "5f085170e19cd3006719ecfd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Data gathering, development processes and algorithms should be documented to ensure that AI systems are traceable and auditable.&nbsp;</p><p dir=\"ltr\">While this might sound like it results in an organisation giving away its secrets, that is not the intention of such statements. The aim is to help organisations build trust with their clients. It is also perfectly possible to achieve this without losing any commercial advantage, in fact <a href=\"https://theodi.org/project/the-value-of-data-sharing-in-the-private-sector\" target=\"_blank\">openness and transparency grow commercial advantage</a>.&nbsp;&nbsp;</p><p dir=\"ltr\">You can even have fun with this process, as demonstrated by Google who help users to understand how their search rankings work with the aid of <a href=\"https://archive.google.com/pigeonrank/\" target=\"_blank\">PigeonRank, a system for ranking web pages developed by Google founders.</a></p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Data gathering, development processes and algorithms should be documented to ensure that AI systems are traceable and auditable.&nbsp;</p><p dir=\"ltr\">While this might sound like it results in an organisation giving away its secrets, that is not the intention of such statements. The aim is to help organisations build trust with their clients. It is also perfectly possible to achieve this without losing any commercial advantage, in fact <a href=\"https://theodi.org/project/the-value-of-data-sharing-in-the-private-sector\" target=\"_blank\">openness and transparency grow commercial advantage</a>.&nbsp;&nbsp;</p><p dir=\"ltr\">You can even have fun with this process, as demonstrated by Google who help users to understand how their search rankings work with the aid of <a href=\"https://archive.google.com/pigeonrank/\" target=\"_blank\">PigeonRank, a system for ranking web pages developed by Google founders.</a></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Miniquiz - Question 3",
+    "displayTitle": "Miniquiz - Question 3",
+    "body": "<p>We only need to be concerned with ethics, equality and human rights when processing personal data. True or false?</p>",
+    "_id": "5f085179e19cd3006719ed01",
+    "_parentId": "5f085179e19cd3006719ed00",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Data collection, use or sharing – regardless of whether the data is personal – should be designed and operated to be compatible with human rights and freedoms; to empower people in their work at WPP and across the group; and to allow for human choice.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data collection, use or sharing – regardless of whether the data is personal – should be designed and operated to be compatible with human rights and freedoms; to empower people in their work at WPP and across the group; and to allow for human choice.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Miniquiz - Question 5",
+    "displayTitle": "Miniquiz - Question 5",
+    "body": "<p>Whose responsibility is it to ensure we are ethical with data?</p>",
+    "_id": "5f08517de19cd3006719ed04",
+    "_parentId": "5f08517de19cd3006719ed03",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Everyone’s",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The technical people who create the systems",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The legal, data security and privacy teams",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Our suppliers",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Being ethical with data at WPP is everyone’s responsibility. We encourage our people to challenge data use and speak up if they have a concern.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Being ethical with data at WPP is everyone’s responsibility. We encourage our people to challenge data use and speak up if they have a concern.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Miniquiz - Question 4",
+    "displayTitle": "Miniquiz - Question 4",
+    "body": "<p>New AI systems tout the ability for machines to learn from data and make decisions autonomously. Who is responsible for the decisions these systems make?</p>",
+    "_id": "5f08517ee19cd3006719ed06",
+    "_parentId": "5f08517ee19cd3006719ed05",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "No one",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The machine",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "We (humans) are",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>We believe humans are always responsible for decisions, regardless of the use of AI or other algorithms. Humans should always be in the loop. We acknowledge our responsibility to understand both the limitations and possibilities of data and to ensure that any processing is proportionate to our needs. Keeping humans in the loop is essential to preserve creativity, understand limitations and reduce risk.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>We believe humans are always responsible for decisions, regardless of the use of AI or other algorithms. Humans should always be in the loop. We acknowledge our responsibility to understand both the limitations and possibilities of data and to ensure that any processing is proportionate to our needs. Keeping humans in the loop is essential to preserve creativity, understand limitations and reduce risk.<strong> </strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "canvas",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "ODI Data Ethics Canvas",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f085319e19cd3006719ed07",
+    "_parentId": "5f084261e19cd3006719ece5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c993ffb7b18386102e527ec0503cb9a554b0d50b.jpg",
+      "small": "course/en/assets/c993ffb7b18386102e527ec0503cb9a554b0d50b.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data ethics: 4 key areas",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f085390e19cd3006719ed0a",
+    "_parentId": "5f085370e19cd3006719ed08",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Explore the four key areas below",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data",
+        "body": "<ul><li>What data do you need; is it available?</li><li>Does the data have limitations, gaps, inconsistencies or biases?</li><li>Are there any existing ethical or legislative contexts you need to consider?</li><li>Are there any issues with data rights that need to be addressed?<br />&nbsp;</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Impact",
+        "body": "<ul><li>What are you trying to achieve by collecting, sharing or using data?</li><li>What positive impacts will there be?</li><li>What negative impact might there be?</li><li>How will you minimise negative impact?&nbsp;</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Engagement",
+        "body": "<ul><li>How do you ensure you are as open as possible about this project?</li><li>How will you communicate with people?</li><li>How will you allow people to engage if they have concerns?</li><li>Will you be publishing data and/or models as part of this process?</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Process",
+        "body": "<ul><li>How will systems and processes support the ethical practices?</li><li>How often will these be reviewed?</li><li>How will ongoing data ethics issues be measured, monitored, discussed and actioned?</li><li>Who will be responsible for the integration and who must be involved?</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data on the web",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f0864471b9bc4005e6b6874",
+    "_parentId": "5f0842fee19cd3006719ecea",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Miniquiz: Our values",
+    "displayTitle": "Miniquiz: Our values",
+    "body": "<p>Test your knowledge of WPP's ethical values with the following miniquiz.</p>",
+    "_id": "5f0864dd1b9bc4005e6b687a",
+    "_parentId": "5f0864b41b9bc4005e6b6879",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Miniquiz image",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f0864e01b9bc4005e6b687b",
+    "_parentId": "5f0864b41b9bc4005e6b6879",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How did you do?",
+    "displayTitle": "How did you do?",
+    "body": "<p>Complete the miniquiz to see your result.</p>",
+    "_id": "5f0867361b9bc4005e6b6880",
+    "_parentId": "5f0867121b9bc4005e6b687f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": true,
+    "_setCompletionOn": "inview",
+    "_resetType": "inherit",
+    "_assessmentId": "trust_miniquiz",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": "",
+      "_routeToAssessment": false
+    },
+    "_completionBody": "<p>{{{feedback}}}</p>",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "<p><strong>{{score}}/5</strong></p><p>Room for improvement, but don't worry, the team at WPP are here to help.</p><p>A good place to start are the community pages, where you can find out more about the frameworks and codes of practice for being trusted with data and how to contact the right person to help.&nbsp;</p>",
+        "_allowRetry": true,
+        "_classes": ""
+      },
+      {
+        "_score": 80,
+        "feedback": "<p><strong>{{score}}/5</strong></p><p>Great! The challenge is always putting it into practice.&nbsp;</p><p>The WPP community pages, where you can find out more about the frameworks and codes of practice, can help here.</p>",
+        "_allowRetry": true,
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The ODI Data Ethics Canvas",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f0877321b9bc4005e6b6881",
+    "_parentId": "5f085370e19cd3006719ed08",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7da5cb60d81ae40e7521d701ebfd687698f57418.gif",
+      "small": "course/en/assets/7da5cb60d81ae40e7521d701ebfd687698f57418.gif",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1O-3KPr3pmA69ZS8rnUHOTETB6nJG4u18/view?usp=sharing\" target=\"_blank\">The Open Data Instutute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>WPP recognises its obligations to its stakeholders including shareowners, clients, its own people, suppliers and consumers.&nbsp;</p><p>We must respect and protect the rights of organisations and individuals alike and we must do this in a way that means that data is used not only lawfully but ethically.</p><p>Find out more about our codes of practice and ethical frameworks on the community pages, where you can also find our how to join the community and ask for help.</p>",
+    "_id": "5f0878ac1b9bc4005e6b6887",
+    "_parentId": "5f08785e1b9bc4005e6b6886",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f0878b11b9bc4005e6b6888",
+    "_parentId": "5f08785e1b9bc4005e6b6886",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
+      "small": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-189810137.html\" target=\"_blank\">Kritchanut</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Engaging consumers in conversations about trust",
+    "displayTitle": "Engaging consumers in conversations about trust",
+    "body": "<p>In their #MoreThanData campaign Investec &amp; Wunderman Thompson Africa used data to show the limitations of data. By acknowledging the concerns about data and engaging in genuine two-way conversations, Investec was able to build a position of trust about data for their brand that goes beyond the standard statements about data trustworthiness used by many brands.</p>",
+    "_id": "5f087d931b9bc4005e6b688c",
+    "_parentId": "5f087d801b9bc4005e6b688b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Watch the video to discover more.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/437157570",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
   }
 ]
