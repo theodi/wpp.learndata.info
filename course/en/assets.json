@@ -155,5 +155,45 @@
     "licence": "CC-BY-SA",
     "attribution": "The Open Data Instutute",
     "tags": []
+  },
+  "c653a75c0723450d17c04f8cf8a25ca22c7fb377.png": {
+    "title": "WPP-Spectrum - Closed",
+    "description": "WPP-Spectrum - Closed",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "2aa4bf0dff8b25e99602fabf2d3e4beba1439653.png": {
+    "title": "WPP Spectrum",
+    "description": "WPP Spectrum",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "fd837fbc66bc4380b0b558e3c522f0743a010a71.png": {
+    "title": "WPP Spectrum - Shared",
+    "description": "WPP Spectrum - Shared",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "60ed051578a0c26b44b280c2870416639e19c13a.png": {
+    "title": "WPP Spectrum - Open",
+    "description": "WPP Spectrum - Open",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "4b1c952d6a5688df181b60b5d80b02f8ec5bca29.jpg": {
+    "title": "WPP Catalog 2",
+    "description": "WPP Catalog",
+    "source": "https://data.world/wppdatacatalogue/",
+    "licence": "All rights reserved",
+    "attribution": "WPP Open",
+    "tags": []
   }
 }
