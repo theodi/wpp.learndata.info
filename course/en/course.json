@@ -1,12 +1,12 @@
 {
-  "title": "WPP ",
-  "displayTitle": "WPP ",
+  "title": "WPP",
+  "displayTitle": "WPP",
   "body": "<p>WPP is already providing detailed data training for existing data specialists to increase knowledge in new areas such as AI. As part of this programme, the ODI will apply its deep expertise and experience to provide non-data specialists with key data literacy that will help unlock more value from data at WPP.</p>",
   "subtitle": "",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 12,
+  "_latestTrackingId": 27,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -37,7 +37,7 @@
   "_lockType": "",
   "_id": "course",
   "_start": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_startIds": [
       {
         "_id": "5ef1e7e42e43fe0f9af2f0e1",
@@ -165,7 +165,7 @@
       "link-inverted-hover": ""
     },
     "_themeLogo": {
-      "theme-logo": "course/assets/b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png",
+      "theme-logo": "course/en/assets/b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png",
       "theme-logo-top-padding": "2rem",
       "theme-logo-width": "90%"
     },

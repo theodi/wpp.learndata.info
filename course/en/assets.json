@@ -1,4 +1,12 @@
 {
+  "3267fe06e17b267d0b9b38318876b879a8a7f031.jpg": {
+    "title": "Rectangle placeholder image",
+    "description": "Rectangle placeholder image",
+    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
+    "licence": "CC0",
+    "attribution": "Adapt eLearning",
+    "tags": []
+  },
   "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
     "title": "Square image placeholder",
     "description": "Square image placeholder",
@@ -42,6 +50,14 @@
   "1e7f0b046e5c18b38c707f3302ee55b6136b50e5.png": {
     "title": "WPP Alpha 5",
     "description": "WPP Alpha 5",
+    "source": "https://wpp.com",
+    "licence": "All rights reserved",
+    "attribution": "WPP",
+    "tags": []
+  },
+  "b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png": {
+    "title": "WPP Logo Navy",
+    "description": "WPP Logo Navy",
     "source": "https://wpp.com",
     "licence": "All rights reserved",
     "attribution": "WPP",
