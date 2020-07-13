@@ -1,25 +1,4 @@
 {
-  "e303e33c52b96c12da48db19daab649529718970.png": {
-    "title": "summary-icon-lga-pink.png",
-    "description": "Summary clipboard",
-    "source": "http://www.shutterstock.com/pic-189810137.html",
-    "licence": "Shutterstock standard licence",
-    "attribution": "Kritchanut",
-    "tags": [
-      {
-        "title": "Summary",
-        "_id": "5ee397b3b045644557c81b38"
-      },
-      {
-        "title": "LGA",
-        "_id": "5ee397aeb045644557c81aef"
-      },
-      {
-        "title": "Clipboard",
-        "_id": "5ee397a2b045644557c81a58"
-      }
-    ]
-  },
   "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
     "title": "Square image placeholder",
     "description": "Square image placeholder",
@@ -290,6 +269,38 @@
     "source": "https://wpp.com",
     "licence": "All rights reserved",
     "attribution": "WPP",
+    "tags": []
+  },
+  "09fad7901a42ee3f223f988588cbf75c090ec6de.jpg": {
+    "title": "Person using laptop computer during daytime",
+    "description": "Person using laptop computer during daytime",
+    "source": "https://www.pexels.com/photo/person-using-laptop-computer-during-daytime-196655/",
+    "licence": "CC0",
+    "attribution": "picjumbo.com",
+    "tags": []
+  },
+  "c96bde9a72a07b7c03b03808d040967d15d298c3.png": {
+    "title": "MoreThanData",
+    "description": "MoreThanData",
+    "source": "http://www.mad-planet.com/work/investec-private-banking-data/",
+    "licence": "All rights reserved",
+    "attribution": "Investec",
+    "tags": []
+  },
+  "d63f6293309e9a447efa727ae599033457e8866e.png": {
+    "title": "Data in AI",
+    "description": "Data in AI",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "dfcab6b8e0852582f5d0d0dd127ffc5ab86da5c4.png": {
+    "title": "WPP Clipboard Blue",
+    "description": "WPP Clipboard Blue",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
     "tags": []
   }
 }

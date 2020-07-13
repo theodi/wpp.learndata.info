@@ -2046,9 +2046,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+      "large": "course/en/assets/d63f6293309e9a447efa727ae599033457e8866e.png",
+      "small": "course/en/assets/d63f6293309e9a447efa727ae599033457e8866e.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
   {
@@ -2716,9 +2716,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+      "large": "course/en/assets/09fad7901a42ee3f223f988588cbf75c090ec6de.jpg",
+      "small": "course/en/assets/09fad7901a42ee3f223f988588cbf75c090ec6de.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/person-using-laptop-computer-during-daytime-196655/\" target=\"_blank\">picjumbo.com</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -2865,7 +2865,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "clipboard color-two",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -2892,9 +2892,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
-      "small": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
-      "attribution": "<a href=\"http://www.shutterstock.com/pic-189810137.html\" target=\"_blank\">Kritchanut</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+      "large": "course/en/assets/dfcab6b8e0852582f5d0d0dd127ffc5ab86da5c4.png",
+      "small": "course/en/assets/dfcab6b8e0852582f5d0d0dd127ffc5ab86da5c4.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
