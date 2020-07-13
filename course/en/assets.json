@@ -20,14 +20,6 @@
       }
     ]
   },
-  "3267fe06e17b267d0b9b38318876b879a8a7f031.jpg": {
-    "title": "Rectangle placeholder image",
-    "description": "Rectangle placeholder image",
-    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
-    "licence": "CC0",
-    "attribution": "Adapt eLearning",
-    "tags": []
-  },
   "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
     "title": "Square image placeholder",
     "description": "Square image placeholder",
@@ -194,6 +186,102 @@
     "source": "https://data.world/wppdatacatalogue/",
     "licence": "All rights reserved",
     "attribution": "WPP Open",
+    "tags": []
+  },
+  "91745c7ecb757b099cf12fd88e5a965431f4c8d7.png": {
+    "title": "ODI - Data as Culture",
+    "description": "ODI - Data as Culture",
+    "source": "https://theodi.org",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "ce1022ce721a602a63ca2c78689e7045d919744d.png": {
+    "title": "WPP KAOS Combined",
+    "description": "WPP KAOS Combined",
+    "source": "https://www.akqa.com/work/palms-casino/kaos-identity/",
+    "licence": "All rights reserved",
+    "attribution": "AKQA",
+    "tags": []
+  },
+  "8be2db7b485afcc8b3a899eb335d412311551867.png": {
+    "title": "WPP - Unscripted",
+    "description": "WPP - Unscripted",
+    "source": "https://www.wundermanthompson.com/work/unscripted",
+    "licence": "All rights reserved",
+    "attribution": "Wunderman Thompson",
+    "tags": []
+  },
+  "eef9e134d4acdb16bfcc43e9d0bc6ec0443e490e.jpg": {
+    "title": "Silo",
+    "description": "Silo",
+    "source": "https://www.pexels.com/photo/metal-building-grayscale-photo-1058397/",
+    "licence": "CC0",
+    "attribution": "Deneen LT",
+    "tags": []
+  },
+  "8682736b553261101600bb0b8255609d85693dc4.png": {
+    "title": "Ikea toy box",
+    "description": "Ikea toy box",
+    "source": "https://wpp.com",
+    "licence": "All rights reserved",
+    "attribution": "WPP",
+    "tags": []
+  },
+  "eab6f6cffbf8239c48f8f6585f9e47b13452ae8d.png": {
+    "title": "Intent scoring",
+    "description": "MediaCom",
+    "source": "https://www.mediacom.com/",
+    "licence": "All rights reserved",
+    "attribution": "MediaCom",
+    "tags": []
+  },
+  "20c025f7167d121d832bdc78b77512e6ddc58aee.png": {
+    "title": "Six Degrees to Tennessee",
+    "description": "Six Degrees to Tennessee",
+    "source": "https://www.rollingstone.com/music/music-country/the-roots-elle-king-captivate-at-six-degrees-to-tennessee-roots-jam-724886/",
+    "licence": "All rights reserved",
+    "attribution": "VMLY&R",
+    "tags": []
+  },
+  "ab7ebcc0b25e1643215c146c52619406a05de3e3.png": {
+    "title": "Open Active",
+    "description": "Open Active",
+    "source": "https://www.openactive.io/",
+    "licence": "CC-BY-SA",
+    "attribution": "OpenActive",
+    "tags": []
+  },
+  "76f819a4ff40a1d435f3c4db9d53b68a7200da80.png": {
+    "title": "WPP Tesco",
+    "description": "WPP Tesco",
+    "source": "https://www.mediacom.com/",
+    "licence": "All rights reserved",
+    "attribution": "Tesco/Mediacom",
+    "tags": []
+  },
+  "ca23bbcbe9e933c23e68e3bbac0a431453d73850.jpg": {
+    "title": "People on bed look at a computer",
+    "description": "People on bed look at a computer",
+    "source": "https://www.pexels.com/photo/couple-with-a-laptop-in-bed-4046110/",
+    "licence": "CC0",
+    "attribution": "Jack Sparrow",
+    "tags": []
+  },
+  "e1edd35cae8ece2b2a630af3386b6c3ee8e5801c.jpg": {
+    "title": "Chevron station",
+    "description": "Chevron station",
+    "source": "https://www.pexels.com/photo/city-road-landscape-sunset-4169816/",
+    "licence": "CC0",
+    "attribution": "Wendy Wei",
+    "tags": []
+  },
+  "27e46b8ecff0ef00b011569e3060bd672793f041.jpg": {
+    "title": "John Lewis Bluewater",
+    "description": "John Lewis Bluewater",
+    "source": "https://www.flickr.com/photos/eepaul/14040425613",
+    "licence": "CC-BY",
+    "attribution": "Paul Wilkinson",
     "tags": []
   }
 }
