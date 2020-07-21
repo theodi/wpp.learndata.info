@@ -2893,7 +2893,7 @@
       {
         "title": "Public data",
         "_ariaLevel": 0,
-        "body": "<p>Public data covers all that visible to everyone but with limited or unclear rights.</p><p>As with the question previously, just because something is visible online, that doesn't mean you can freely make use of it.</p>",
+        "body": "<p>Public data covers all that visible to everyone but with limited or unclear rights.</p><p>As with the question previously, just because something is visible online, that doesn't mean you can freely make use of it.</p><p>Examples of public data include people's tweets. Tweets are owned by their creators. While Twitter can do what they like with content on their platform, that doesn’t mean anyone&nbsp;can&nbsp;take the best jokes from Twitter and publish a book of them without first getting permission.</p>",
         "strapline": "Public data",
         "_graphic": {
           "src": "course/en/assets/77a03d871f7cea023d2fb6e752f5afddd5e2b2c7.png",
@@ -3847,7 +3847,7 @@
     "_disableAccessibilityState": false,
     "title": "Dealing with challenges",
     "displayTitle": "Dealing with challenges",
-    "body": "<p>It is inevitable there there will challenges in any project. The double diamond model is designed to ensure that the process does not get out of control, but what options do you have if something does go wrong at any point?</p>",
+    "body": "<p>It is inevitable there will be challenges in any project. The double diamond model is designed to ensure that the process does not get out of control, but what options do you have if something does go wrong at any point?</p>",
     "_id": "5f157df995fde34f67ce1111",
     "_parentId": "5f157d5895fde34f67ce1110",
     "_type": "component",
