@@ -2027,7 +2027,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Is more data better",
+    "title": "Lady justice",
     "displayTitle": "",
     "body": "",
     "_id": "5f08452fe19cd3006719ecf3",
@@ -2046,9 +2046,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/d63f6293309e9a447efa727ae599033457e8866e.png",
-      "small": "course/en/assets/d63f6293309e9a447efa727ae599033457e8866e.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+      "large": "course/en/assets/a6de9be46f90f39b0925881e05d5921cf2518f47.jpg",
+      "small": "course/en/assets/a6de9be46f90f39b0925881e05d5921cf2518f47.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/DZpc4UY8ZtY\" target=\"_blank\">Tingey Injury Law Firm</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -2129,7 +2129,7 @@
     "_id": "5f0847c8e19cd3006719ecf8",
     "_parentId": "5f084257e19cd3006719ece3",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -2242,7 +2242,7 @@
     "_id": "5f085179e19cd3006719ed01",
     "_parentId": "5f085179e19cd3006719ed00",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -2327,7 +2327,7 @@
     "_id": "5f08517de19cd3006719ed04",
     "_parentId": "5f08517de19cd3006719ed03",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -2422,7 +2422,7 @@
     "_id": "5f08517ee19cd3006719ed06",
     "_parentId": "5f08517ee19cd3006719ed05",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -2807,68 +2807,10 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/dfcab6b8e0852582f5d0d0dd127ffc5ab86da5c4.png",
-      "small": "course/en/assets/dfcab6b8e0852582f5d0d0dd127ffc5ab86da5c4.png",
+      "large": "course/en/assets/11a23589f7e594efbef867d036240970a73f12bf.png",
+      "small": "course/en/assets/11a23589f7e594efbef867d036240970a73f12bf.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Engaging consumers in conversations about trust",
-    "displayTitle": "Engaging consumers in conversations about trust",
-    "body": "<p>In their #MoreThanData campaign Investec &amp; Wunderman Thompson Africa used data to show the limitations of data. By acknowledging the concerns about data and engaging in genuine two-way conversations, Investec was able to build a position of trust about data for their brand that goes beyond the standard statements about data trustworthiness used by many brands.</p>",
-    "_id": "5f087d931b9bc4005e6b688c",
-    "_parentId": "5f087d801b9bc4005e6b688b",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "Watch the video to discover more.",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://player.vimeo.com/video/437157570",
-      "type": "video/vimeo",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": false,
-    "_startVolume": "80%",
-    "_allowFullScreen": false,
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
   },
   {
     "_component": "hotgraphic",
@@ -2901,7 +2843,7 @@
     "_graphic": {
       "src": "course/en/assets/2aa4bf0dff8b25e99602fabf2d3e4beba1439653.png",
       "alt": "",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     },
     "mobileBody": "",
     "mobileInstruction": "",
@@ -2919,15 +2861,15 @@
           "src": "course/en/assets/c653a75c0723450d17c04f8cf8a25ca22c7fb377.png",
           "alt": "",
           "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
-          "_classes": ""
+          "_classes": "spectrum-marker"
         },
         "_pin": {
-          "src": "",
+          "src": "course/en/assets/9e39c4c6fdf8f5a7df0211a669fb5d42171432f6.png",
           "alt": ""
         },
         "_classes": "",
-        "_left": 7.3,
-        "_top": 60
+        "_left": 13.8,
+        "_top": 53
       },
       {
         "title": "Shared data",
@@ -2937,35 +2879,54 @@
         "_graphic": {
           "src": "course/en/assets/fd837fbc66bc4380b0b558e3c522f0743a010a71.png",
           "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>",
-          "_classes": ""
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "_classes": "spectrum-marker"
         },
         "_pin": {
-          "src": "",
+          "src": "course/en/assets/42c72b8e96ed93af8487939961df6e625478b5bf.png",
           "alt": ""
         },
         "_classes": "",
-        "_left": 41.2,
-        "_top": 60
+        "_left": 38.4,
+        "_top": 53
       },
       {
-        "title": "Open / Public data",
+        "title": "Public data",
+        "_ariaLevel": 0,
+        "body": "<p>Public data covers all that visible to everyone but with limited or unclear rights.</p><p>As with the question previously, just because something is visible online, that doesn't mean you can freely make use of it.</p>",
+        "strapline": "Public data",
+        "_graphic": {
+          "src": "course/en/assets/77a03d871f7cea023d2fb6e752f5afddd5e2b2c7.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "_classes": "spectrum-marker"
+        },
+        "_pin": {
+          "src": "course/en/assets/97ac7eae69e4bf9f154377863844e541e170cbc1.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 57.2,
+        "_top": 53
+      },
+      {
+        "title": "Open data",
         "_ariaLevel": 0,
         "body": "<p dir=\"ltr\">Open data is data that anyone can access, use and share. Companies and governments have been increasingly publishing open data and reaping the benefits of the ecosystems the data supports.&nbsp;</p><p dir=\"ltr\"><br />Examples of open data in WPP include: <a href=\"https://data.world/wppdatacatalogue/corporate-messaging\" target=\"_blank\">Corporate messaging</a> (public), <a href=\"https://data.world/wppdatacatalogue/future-of-business-survey-aggregated-data\" target=\"_blank\">Future of Business Survey</a> (public).</p>",
-        "strapline": "Open / Public data",
+        "strapline": "Open data",
         "_graphic": {
           "src": "course/en/assets/60ed051578a0c26b44b280c2870416639e19c13a.png",
           "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>",
-          "_classes": ""
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "_classes": "spectrum-marker"
         },
         "_pin": {
-          "src": "",
+          "src": "course/en/assets/79956be7b80ab0a817e84c4e2881db990ee3356d.png",
           "alt": ""
         },
         "_classes": "",
-        "_left": 79.5,
-        "_top": 60
+        "_left": 78,
+        "_top": 53
       }
     ]
   },
@@ -4418,6 +4379,200 @@
       "large": "course/en/assets/dfcab6b8e0852582f5d0d0dd127ffc5ab86da5c4.png",
       "small": "course/en/assets/dfcab6b8e0852582f5d0d0dd127ffc5ab86da5c4.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Engaging consumers in conversations about trust",
+    "displayTitle": "Engaging consumers in conversations about trust",
+    "body": "<p>In their #MoreThanData campaign Investec &amp; Wunderman Thompson Africa used data to show the limitations of data. By acknowledging the concerns about data and engaging in genuine two-way conversations, Investec was able to build a position of trust about data for their brand that goes beyond the standard statements about data trustworthiness used by many brands.</p>",
+    "_id": "5f16c2bd6149f70073517f46",
+    "_parentId": "5f16c2bd6149f70073517f45",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Watch the video to discover more.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/437157570",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Bubble",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f16d3846149f70073517f47",
+    "_parentId": "5f084257e19cd3006719ece3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c6e98ab5f6ce6524af8fe4a11bb785004bdbbb6d.jpg",
+      "small": "course/en/assets/c6e98ab5f6ce6524af8fe4a11bb785004bdbbb6d.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/focused-photo-of-bubble-824678/\" target=\"_blank\">Lucas Insight</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Protest/Equality",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f16d39e6149f70073517f4a",
+    "_parentId": "5f085179e19cd3006719ed00",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d1573bb882057c574dc244f64137014c744af587.jpg",
+      "small": "course/en/assets/d1573bb882057c574dc244f64137014c744af587.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/LeHpD4Jq_cU\" target=\"_blank\">Chris Slupski</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Plasma ball",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f16d3c16149f70073517f4d",
+    "_parentId": "5f08517ee19cd3006719ed05",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a2751d6bbd215d3b08614b1c0a7f62880801c113.jpg",
+      "small": "course/en/assets/a2751d6bbd215d3b08614b1c0a7f62880801c113.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/vEE00Hx5d0Q\" target=\"_blank\">Ramón Salinero</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Loudspeaker",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f16d3d86149f70073517f50",
+    "_parentId": "5f08517de19cd3006719ed03",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5cda45107b755aa1738294dd1c449a3e83912f2e.jpg",
+      "small": "course/en/assets/5cda45107b755aa1738294dd1c449a3e83912f2e.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/-Za3zQvVdM8\" target=\"_blank\">Ben Pham</a> <span class='assetLicence'>[CC0]</span>"
     }
   }
 ]

@@ -282,58 +282,11 @@
     }
   },
   {
-    "title": "Summary",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 7,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f08785e1b9bc4005e6b6886",
-    "_parentId": "5f08785e1b9bc4005e6b6885",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
     "title": "Introduction",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 8,
+    "_trackingId": 7,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -380,7 +333,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "section-banner",
-    "_trackingId": 9,
+    "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -427,7 +380,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 10,
+    "_trackingId": 9,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -474,7 +427,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 11,
+    "_trackingId": 10,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -484,6 +437,53 @@
     "_ariaLevel": 0,
     "_id": "5f15814695fde34f67ce1123",
     "_parentId": "5f15814695fde34f67ce1122",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Engaging consumers in conversations about trust",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f16c2bd6149f70073517f45",
+    "_parentId": "5f08785e1b9bc4005e6b6885",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -752,11 +752,58 @@
     }
   },
   {
-    "title": "A double diamond approach to data centric projects",
+    "title": "Summary",
     "displayTitle": "",
     "body": "",
     "_classes": "",
     "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f08785e1b9bc4005e6b6886",
+    "_parentId": "5f08785e1b9bc4005e6b6885",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "A double diamond approach to data centric projects",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -803,7 +850,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 18,
+    "_trackingId": 19,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -850,7 +897,7 @@
     "displayTitle": "Can you remember the stages?",
     "body": "",
     "_classes": "",
-    "_trackingId": 19,
+    "_trackingId": 20,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -897,7 +944,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-two",
-    "_trackingId": 20,
+    "_trackingId": 21,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -944,7 +991,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 21,
+    "_trackingId": 22,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -991,7 +1038,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 22,
+    "_trackingId": 23,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1038,7 +1085,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 23,
+    "_trackingId": 24,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1085,7 +1132,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 24,
+    "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1132,7 +1179,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 25,
+    "_trackingId": 26,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1179,7 +1226,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 26,
+    "_trackingId": 27,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1226,7 +1273,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-two inverted",
-    "_trackingId": 27,
+    "_trackingId": 28,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1273,7 +1320,7 @@
     "displayTitle": "",
     "body": "<p style=\"text-align: center;text-decoration: underline;\"><a style=\"cursor: pointer;font-size: 1.3rem;\" onclick=\"$('.caseStudies1').toggleClass('u-display-none');$(this).parent().hide();\">Click here to read more about the case studies in the video</a></p>",
     "_classes": "color-one inverted",
-    "_trackingId": 28,
+    "_trackingId": 29,
     "instruction": "",
     "_isOptional": true,
     "_isAvailable": true,
@@ -1320,7 +1367,7 @@
     "displayTitle": "Types of data in the WPP Open Data Catalog",
     "body": "",
     "_classes": "",
-    "_trackingId": 29,
+    "_trackingId": 30,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1367,7 +1414,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 30,
+    "_trackingId": 31,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1414,7 +1461,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 31,
+    "_trackingId": 32,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1461,7 +1508,7 @@
     "displayTitle": "Getting stuck in",
     "body": "<p>When using data, the temptation is to take anything you can find (or already have) and start developing solutions, skipping the first diamond.</p>",
     "_classes": "",
-    "_trackingId": 32,
+    "_trackingId": 33,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1508,7 +1555,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 33,
+    "_trackingId": 34,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1555,7 +1602,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-two",
-    "_trackingId": 34,
+    "_trackingId": 35,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1602,7 +1649,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 35,
+    "_trackingId": 36,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1649,7 +1696,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 36,
+    "_trackingId": 37,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1696,7 +1743,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 37,
+    "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1706,53 +1753,6 @@
     "_ariaLevel": 0,
     "_id": "5f08517ee19cd3006719ed05",
     "_parentId": "5f084257e19cd3006719ece2",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Engaging consumers in conversations about trust",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 38,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f087d801b9bc4005e6b688b",
-    "_parentId": "5f084261e19cd3006719ece4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,

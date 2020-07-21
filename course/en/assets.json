@@ -287,14 +287,6 @@
     "attribution": "Investec",
     "tags": []
   },
-  "d63f6293309e9a447efa727ae599033457e8866e.png": {
-    "title": "Data in AI",
-    "description": "Data in AI",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
   "dfcab6b8e0852582f5d0d0dd127ffc5ab86da5c4.png": {
     "title": "WPP Clipboard Blue",
     "description": "WPP Clipboard Blue",
@@ -397,6 +389,94 @@
     "source": "https://unsplash.com/photos/iW9oP7Ljkbg",
     "licence": "CC-BY",
     "attribution": "Slidebean",
+    "tags": []
+  },
+  "9e39c4c6fdf8f5a7df0211a669fb5d42171432f6.png": {
+    "title": "Marker closed",
+    "description": "Marker closed",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "79956be7b80ab0a817e84c4e2881db990ee3356d.png": {
+    "title": "Marker open",
+    "description": "Marker open",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "97ac7eae69e4bf9f154377863844e541e170cbc1.png": {
+    "title": "Marker public",
+    "description": "Marker public",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "42c72b8e96ed93af8487939961df6e625478b5bf.png": {
+    "title": "Marker shared",
+    "description": "Marker shared",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "77a03d871f7cea023d2fb6e752f5afddd5e2b2c7.png": {
+    "title": "WPP Spectrum - Public",
+    "description": "WPP Spectrum - Public",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "c6e98ab5f6ce6524af8fe4a11bb785004bdbbb6d.jpg": {
+    "title": "Focused photo of bubble",
+    "description": "Focused photo of bubble",
+    "source": "https://www.pexels.com/photo/focused-photo-of-bubble-824678/",
+    "licence": "CC0",
+    "attribution": "Lucas Insight",
+    "tags": []
+  },
+  "d1573bb882057c574dc244f64137014c744af587.jpg": {
+    "title": "Independence protest hands raised",
+    "description": "Independence protest hands raised",
+    "source": "https://unsplash.com/photos/LeHpD4Jq_cU",
+    "licence": "CC0",
+    "attribution": "Chris Slupski",
+    "tags": []
+  },
+  "a2751d6bbd215d3b08614b1c0a7f62880801c113.jpg": {
+    "title": "Plasma ball",
+    "description": "Plasma ball",
+    "source": "https://unsplash.com/photos/vEE00Hx5d0Q",
+    "licence": "CC0",
+    "attribution": "Ramón Salinero",
+    "tags": []
+  },
+  "5cda45107b755aa1738294dd1c449a3e83912f2e.jpg": {
+    "title": "Loudspeaker on building",
+    "description": "Loudspeaker on building",
+    "source": "https://unsplash.com/photos/-Za3zQvVdM8",
+    "licence": "CC0",
+    "attribution": "Ben Pham",
+    "tags": []
+  },
+  "a6de9be46f90f39b0925881e05d5921cf2518f47.jpg": {
+    "title": "Lady justice",
+    "description": "Lady justice",
+    "source": "https://unsplash.com/photos/DZpc4UY8ZtY",
+    "licence": "CC0",
+    "attribution": "Tingey Injury Law Firm",
+    "tags": []
+  },
+  "11a23589f7e594efbef867d036240970a73f12bf.png": {
+    "title": "WPP Clipboard Blue",
+    "description": "WPP Clipboard Blue",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
     "tags": []
   }
 }
