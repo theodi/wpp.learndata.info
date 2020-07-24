@@ -968,7 +968,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://player.vimeo.com/video/437180251",
+      "source": "https://player.vimeo.com/video/437180251?texttrack=en-gb",
       "type": "video/vimeo",
       "poster": "",
       "cc": []
@@ -2976,7 +2976,7 @@
     "_disableAccessibilityState": false,
     "title": "Working with data",
     "displayTitle": "Working with data",
-    "body": "<p>As we have seen in module 2. Data is a creative material. It is not just there to be processed in a spreadsheet and turned into a chart. Data can tell intriguing stories, create powerful experiences and lead a brand. But for data to create these experiences we need to ensure that working practices around data are robust.&nbsp;</p><p>This module will give a high level overview of the processes and skills required to work practically with data to ensure high quality, robust results.&nbsp;</p><p>This module introduces a double diamond approach to data centric projects and the four key phases involved.</p>",
+    "body": "<p>As we have seen in Module 2, data is a creative material. It does not exist simply to be processed in a spreadsheet and turned into a chart. Data can tell intriguing stories, create powerful experiences and lead a brand. But for data to create these experiences we need to ensure that working practices around data are robust.&nbsp;</p><p>This module will give a high-level overview of the processes and skills required to work practically with data to ensure high quality, robust results.&nbsp;</p><p>This module introduces a ‘double diamond’ approach to data-centric projects and the four key phases involved.&nbsp;</p>",
     "_id": "5f15583495fde34f67ce10d8",
     "_parentId": "5f15575395fde34f67ce10d7",
     "_type": "component",
@@ -3036,9 +3036,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "A double diamond approach to data centric projects",
-    "displayTitle": "A double diamond approach to data centric projects",
-    "body": "<p>The Double Diamond is a structured design approach to tackle challenges in two stages consisting of four phases – discover, define, develop and deliver.&nbsp;</p><p>You may have come across the design council’s excellent and widely recognised double diamond model before. So perhaps it might come as no surprise that the same methodology can be applied to data to help you understand where and when it fits within a project.&nbsp;</p><p>&nbsp;</p>",
+    "title": "A ‘double diamond’ approach to data-centric projects",
+    "displayTitle": "A ‘double diamond’ approach to data-centric projects",
+    "body": "<p>The double diamond is a structured design approach to tackle challenges in two stages consisting of four phases: discover, define, develop and deliver.</p><p>You may have come across the excellent and widely recognised double diamond model before – based on a model proposed by Béla H. Bánáthy, and popularised by the Design Council. So perhaps it might come as no surprise that the same methodology can be applied to data to help you understand where and when it fits within a project.</p><p>&nbsp;</p>",
     "_id": "5f1558b995fde34f67ce10dd",
     "_parentId": "5f15588395fde34f67ce10dc",
     "_type": "component",
@@ -3072,7 +3072,7 @@
     "_disableAccessibilityState": false,
     "title": "The two diamonds",
     "displayTitle": "The two diamonds",
-    "body": "<p>Each diamond represents a process of divergence and convergence. During a diverging phase you try to open up as much as possible without limiting yourself, whereas a converging phase focuses on condensing and narrowing your ideas.&nbsp;</p><p>The four phases of the Double Diamond may be simplified and merged into two main stages (or diamonds): &nbsp;<br />&nbsp;</p>",
+    "body": "<p>Each diamond represents a process of divergence and convergence. A diverging phase encourages broad and open thinking without limitation, whereas a converging phase focuses on condensing and narrowing ideas.&nbsp;</p><p>The four phases of the double diamond may be simplified and merged into two main stages (or diamonds):</p>",
     "_id": "5f156e9d95fde34f67ce10e2",
     "_parentId": "5f156e8695fde34f67ce10e1",
     "_type": "component",
@@ -3091,7 +3091,7 @@
     "_items": [
       {
         "title": "Diamond 1:  Doing the right thing",
-        "body": "<p>The first diamond is about ensuring whatever is produced, it represents the best solution for the customer and is able to be developed and delivered in a responsible and trustworthy way.&nbsp;</p><p>At the end of the first diamond it should be very clear what role data will play in a creative solution.</p>",
+        "body": "<p>The first diamond is about ensuring that whatever is produced represents the best solution for the customer; and that it is able to be developed and delivered in a responsible and trustworthy way.&nbsp;</p><p>At the end of the first diamond it should be very clear what role data will play in a creative solution.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3101,7 +3101,7 @@
       },
       {
         "title": "Diamond 2: Doing things right",
-        "body": "<p>Having defined the role data will play in a creative solution, the next phase is about how this is delivered. A number of potential solutions might be developed and tried before one or more is picked to be a part of the final product.</p>",
+        "body": "<p>Having defined the role data will play in a creative solution, the next phase is about how this is delivered. Several potential solutions might be developed and tried before one or more is picked to be a part of the final product.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3206,9 +3206,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">Too many skip the first diamond and run into serious problems when it is found time and money has been spent developing something that is fundamentally the wrong solution. Just like it is of critical importance to understand a customer's needs when it comes to developing creative advertising or brand, the same is true when using data.</p>",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">Too many skip the first diamond and run into serious problems when it is found that time and money have been spent developing something that is fundamentally the wrong solution. Just like it is of critical importance to understand customers’ needs when it comes to developing creative advertising or brand, the same is true when using data.</p>",
       "_incorrect": {
-        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p>Too many skip the first diamond and run into serious problems when it is found time and money has been spent developing something that is fundamentally the wrong solution. Just like it is of critical importance to understand a customer's needs when it comes to developing creative advertising or brand, the same is true when using data.</p>",
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p>Too many skip the first diamond and run into serious problems when it is found that time and money have been spent developing something that is fundamentally the wrong solution. Just like it is of critical importance to understand customers’ needs when it comes to developing creative advertising or brand, the same is true when using data.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3330,9 +3330,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p>It follows the 80:20 rule!&nbsp;Up to 80% of time is spent in the discovering and definition phases coming up with a project plan, gathering and establishing the usability of data. During the second stage, although a number of potential solutions could be developed, evaluating these against a clear set of objectives can often be done as each is developed, with the most suitable solution emerging.&nbsp;</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p>It follows the 80:20 rule!&nbsp;Up to 80% of time is spent in the discovering and definition phases: coming up with a project plan, gathering and establishing the usability of data. During the second stage, although a number of potential solutions could be developed, evaluating these against a clear set of objectives can often be done as each is developed, with the most suitable solution emerging.&nbsp;</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>It follows the 80:20 rule!&nbsp;Up to 80% of time is spent in the discovering and definition phases coming up with a project plan, gathering and establishing the usability of data. During the second stage, although a number of potential solutions could be developed, evaluating these against a clear set of objectives can often be done as each is developed, with the most suitable solution emerging.&nbsp;</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>It follows the 80:20 rule!&nbsp;Up to 80% of time is spent in the discovering and definition phases: coming up with a project plan, gathering and establishing the usability of data. During the second stage, although a number of potential solutions could be developed, evaluating these against a clear set of objectives can often be done as each is developed, with the most suitable solution emerging.&nbsp;</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3411,7 +3411,7 @@
     "_disableAccessibilityState": false,
     "title": "Exploring the four phases",
     "displayTitle": "Exploring the four phases",
-    "body": "<p>The following section explores the phases in a little more depth as related to data.</p>",
+    "body": "<p>The following section explores the data-related aspects of the phases in a little more depth.</p>",
     "_id": "5f15749b95fde34f67ce10f2",
     "_parentId": "5f1573cd95fde34f67ce10f1",
     "_type": "component",
@@ -3492,7 +3492,7 @@
     "_items": [
       {
         "title": "Ideate potential objectives",
-        "body": "<p>Key your mind open to new opportunities. Although the project may have a clear goal that needs to be achieved (e.g. design a new brand), how this is achieved and what role data can play will likely not yet be clear. During the discovery phase, lots of potential ideas should be explored.</p>",
+        "body": "<p>Key your mind open to new opportunities. Although the project may have a clear goal that needs to be achieved (for example, design a new brand), how this is achieved and what role data can play will likely not yet be clear. During the discovery phase, lots of potential ideas should be explored.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3501,8 +3501,8 @@
         "_classes": ""
       },
       {
-        "title": "Catalog available data related to objectives",
-        "body": "<p>Sometimes the data itself can present new opportunities, but discovering what data is available can often take a large amount of time and effort. To WPP Open Data Catalog is designed to help reduce some of the time spent during this phase, connecting people not just to new datasets, but also to those who manage them and can help scope objectives as related to each.</p>",
+        "title": "Discover objective-focused data",
+        "body": "<p>Sometimes the data itself can present new opportunities, but discovering what data is available can often take significant time and effort. The WPP Open Data Catalog is designed to help reduce some of the time spent during this phase, connecting people not just to new datasets, but also to colleagues who manage them and can help scope objectives.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3512,7 +3512,7 @@
       },
       {
         "title": "Address legal, ethical and other barriers related to objectives",
-        "body": "<p>Any project that brings together data will face a number of legal and ethical challenges. If data is openly licensed, it can be used immediately. In other circumstances, you might have to pay for a licence that grants you use of the data. In addition to being a data catalogue, The WPP Open Data Catalogue also helps identify rights over data and indicates where payments may be required.</p><p>Even once rights are obtained, it is important to consider the ethics of using the data. More can be discovered&nbsp;in the module on being trusted with data.&nbsp;</p>",
+        "body": "<p>Any project that brings together data is likely to face some legal and ethical challenges. If data is openly licensed, it can be used immediately. In other circumstances, you might have to pay for a licence that grants you use of the data. In addition to being a data repository, The WPP Open Data Catalog also helps identify rights over data and indicates where payments may be required.</p><p>Even once rights are obtained, it is important to consider the ethics of using the data. More can be discovered in the accompanying module on Being Trusted with Data and our <span style=\"background-color:#FFFF00\">WPP Data &amp; AI Ethics Guidelines</span>.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3569,7 +3569,7 @@
     "_disableAccessibilityState": false,
     "title": "Phase 2: Refinement phase",
     "displayTitle": "Phase 2: Refinement phase",
-    "body": "<p>During the refinement phase it is important to establish the suitability of the data to address the project's potential objectives.</p><p>Some of the key activities in the second phase include:&nbsp;</p>",
+    "body": "<p>During the refinement phase it is important to establish the suitability of the data to address the project's potential objectives.</p><p>Some of the key activities in the second phase include:</p>",
     "_id": "5f1576af95fde34f67ce10ff",
     "_parentId": "5f1576ae95fde34f67ce10fe",
     "_type": "component",
@@ -3588,7 +3588,7 @@
     "_items": [
       {
         "title": "Gathering, organising and quality check data sources",
-        "body": "<p>This can involve anything from checking that column titles in data match, numbers mean the same thing, colour spaces are consistent in images or that audio is normalised to the same gain. Even then there might still be errors in the data itself, from corrupt pixels in an image, missing frames in a video or dates in completely random formats in a spreadsheet. All these errors will need to be identified and corrected if they are likely to affect the project outcomes.</p>",
+        "body": "<p>This can involve anything from checking that column titles in data match, that unit descriptions are aligned, that colour spaces are consistent in images, or that audio is normalised to the same gain. Even then there may still be errors in the data itself, for example corrupt pixels in an image, missing frames in a video, or non-consistent date formats in a spreadsheet. All these errors will need to be identified and corrected if they are likely to affect the project outcomes.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3598,7 +3598,7 @@
       },
       {
         "title": "Performing exploratory data analysis",
-        "body": "<p>Data containing no errors may still be unsuitable for use. This is where exploratory data analysis comes in. Exploratory data analysis refers to the critical process of performing initial investigations on data so as to discover patterns, spot anomalies, discover bias and to check assumptions.</p><p>For example your dataset might be of high quality, but if it only represents certain demographics it might be completely unsuitable for use in a country wide marketing campaign. In this case additional data might be required or a combination of approaches taken.</p>",
+        "body": "<p>Even when data is error free it may still be unsuitable for use. This is where exploratory data analysis comes in. Exploratory data analysis refers to the critical process of performing initial investigations on data to discover patterns, spot anomalies, discover bias and to check assumptions.</p><p>For example your dataset might be of high quality, but if it only represents certain demographics it might be completely unsuitable for use in a country-wide marketing campaign. In this case it may be necessary to collate additional data or adopt multiple approaches.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3608,7 +3608,7 @@
       },
       {
         "title": "Review against objectives, legal and ethical requirements",
-        "body": "<p>The final stage of the first diamond involves reflecting on everything learned in order to refine the project's objective and the role of data in the project. The resulting plan should outline what needs to be developed to scale the project ready for delivery.</p>",
+        "body": "<p>The final stage of the first diamond involves reflecting on everything learned to refine the project's objective and the role of data in the project. The resulting plan should outline what needs to be developed to scale the project ready for delivery.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3684,7 +3684,7 @@
     "_items": [
       {
         "title": "Develop prototype solutions",
-        "body": "<p>Key to this phase is to develop a number of prototype solutions. Just like producing design options for campaigns or brands; there are many options for how data can be integrated creatively into a product. Putting forward a number for evaluation will help inform the choice of which is the right one, or what needs to be changed prior to producing the final produce in the last phase.</p>",
+        "body": "<p>Key to this phase is the development of several prototype solutions. In the same way as a designer may present several options for a new brand, &nbsp;there are many options for how data can be integrated creatively into a product. Putting forward several possible solutions for evaluation will help inform the decision, and can help identify any required changes.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3694,7 +3694,7 @@
       },
       {
         "title": "Making the solution sustainable",
-        "body": "<p>In order to sustain the product it may be necessary to put in place a data infrastructure. The infrastructure will support the ongoing data lifecycle, from ensuring data is up to date, automating quality checking, cleaning and flagging of anomalies to the disposal of the data.</p>",
+        "body": "<p>To sustain the product it may be necessary to develop a data infrastructure. The infrastructure will support the ongoing data lifecycle: from ensuring data is up to date and automating quality checking; through to flagging anomalies, data cleaning and disposal.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3704,7 +3704,7 @@
       },
       {
         "title": "Document processes",
-        "body": "<p>During the prototyping phase it is important to document learning. While developing prototypes, additional data processing may reveal new insights or limitations not known before. This will help when it comes to this diamond’s refinement stage when you choose which prototype/s to take forward into the delivery phase.</p>",
+        "body": "<p>During the prototyping phase it is important to document learning. While developing prototypes, additional data processing may reveal new insights or limitations. This will help at this diamond’s refinement stage when you choose which prototype(s) to take forward into the delivery phase.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3761,7 +3761,7 @@
     "_disableAccessibilityState": false,
     "title": "Phase 4: Delivery phase",
     "displayTitle": "Phase 4: Delivery phase",
-    "body": "<p>By this phase, everything should be set in stone and this phase is about delivering the final product.</p><p>In addition to these are are other important aspects to ensure successful delivery:</p>",
+    "body": "<p>By now, everything should be set in stone and this phase is about delivering the final product.</p><p>In addition to these are are other important aspects to ensure successful delivery:</p>",
     "_id": "5f1576c195fde34f67ce110b",
     "_parentId": "5f1576c195fde34f67ce110a",
     "_type": "component",
@@ -3780,7 +3780,7 @@
     "_items": [
       {
         "title": "Review against objectives, legal and ethical requirements",
-        "body": "<p>It is always worth doing one last check to ensure the project's objectives are going to be met, and met in a legal and ethical way. One good way to do this is to take someone new through the whole process, sense checking the choices at each stage stage again.</p>",
+        "body": "<p>At this point it is important to check that the project's objectives will be met, and that legal and ethical requirements have been incorporated. A good way to do this is to go through the whole process with a colleague who has not been involved in the project, sense checking the choices at each stage.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3790,7 +3790,7 @@
       },
       {
         "title": "Enact sustainability and engagement plan",
-        "body": "<p>Ensuring sustainability and engagement with wider audiences are not after thoughts are critical for the continued success of any project. It is no different with data. Such plans should also include how people can raise any concerns and what the process is for responding to these. This is especially the case when using AI systems where there may be chances for these to expose bias in data that may discriminate. Even if you have done all your checks, it is hard to predict how perceptions of how the system operates might change in the future. Having a process to deal with concerns as they arise is one of the best things you can do.</p>",
+        "body": "<p>Ensuring that sustainability and engagement with wider audiences are built in from the start is critical for the continued success of any project. It is no different with data projects. Engagement plans should also include how people can raise any concerns and what the process is for responding to these. This is especially the case when using artificial intelligence (AI) systems where there should be a process for flagging and rectifying any built-in bias. Sustainability and engagement plans will also help with any future issues around communication, risks of misinterpretation and ensuring the system is future proofed.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3847,7 +3847,7 @@
     "_disableAccessibilityState": false,
     "title": "Dealing with challenges",
     "displayTitle": "Dealing with challenges",
-    "body": "<p>It is inevitable there will be challenges in any project. The double diamond model is designed to ensure that the process does not get out of control, but what options do you have if something does go wrong at any point?</p>",
+    "body": "<p>It is inevitable there will be challenges in any project. The double diamond model is designed to lead you through the process in a controlled way, but what options do you have if something does go wrong at any point?</p>",
     "_id": "5f157df995fde34f67ce1111",
     "_parentId": "5f157d5895fde34f67ce1110",
     "_type": "component",
@@ -3890,9 +3890,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">If you spot something going wrong, following the process can easily suggest where you need to go back to and iterate. Combined with the process of diverging and converging also means that if a problem is identified during a convergence stage, going back and considering other options from a&nbsp;divergence stage might provide a route to a solution. Iterating is also a good idea to build confidence in the final product, this could be done by taking a new stakeholder through the stages to get input or sign off.</p>",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">If you spot something going wrong, following the process can suggest where you need to go back and iterate. The diverging and converging process allows you to easily go back to the divergence stage, which may provide a route to a solution. Iterating also works well to build confidence in the final product.This could be done by taking a new stakeholder through the stages to get input or sign off.</p>",
       "_incorrect": {
-        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">If you spot something going wrong, following the process can easily suggest where you need to go back to and iterate. Combined with the process of diverging and converging also means that if a problem is identified during a convergence stage, going back and considering other options from a&nbsp;divergence stage might provide a route to a solution. Iterating is also a good idea to build confidence in the final product, this could be done by taking a new stakeholder through the stages to get input or sign off.</p>",
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">If you spot something going wrong, following the process can suggest where you need to go back and iterate. The diverging and converging process allows you to easily go back to the divergence stage, which may provide a route to a solution. Iterating also works well to build confidence in the final product.This could be done by taking a new stakeholder through the stages to get input or sign off.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3937,7 +3937,7 @@
     "_disableAccessibilityState": false,
     "title": "Can you remember the stages?",
     "displayTitle": "",
-    "body": "<p>See if you can match where the following types of activity go in the four phases.</p>",
+    "body": "<p>See if you can match where the following activity types belong within the four phases:</p>",
     "_id": "5f157eb395fde34f67ce1118",
     "_parentId": "5f157e7495fde34f67ce1113",
     "_type": "component",
@@ -4320,68 +4320,6 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Summary",
-    "displayTitle": "Summary",
-    "body": "<p>Most data projects fail as they don’t have the right balance of skills and people rush into solution building’ skipping the first diamond.</p><p>Successful data projects&nbsp;understand the need to mix strategic thought with practical application. To do this you need a diverse and multi-skilled team who are all aware of the opportunities and limitations of using data in projects.</p><p>Very few challenges faced related to using data in projects are technical and through these modules we have explored how everyone needs to adopt the right data culture to enable creative transformation at WPP.&nbsp;</p><p>In the spirit of openness, if you want to learn more or discuss the content of these modules we would welcome you to contribute to the growing data community at WPP.&nbsp;</p>",
-    "_id": "5f15816495fde34f67ce1124",
-    "_parentId": "5f15814695fde34f67ce1123",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "graphic",
-    "_classes": "clipboard color-one",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Summary clipboard",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5f15816795fde34f67ce1125",
-    "_parentId": "5f15814695fde34f67ce1123",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/dfcab6b8e0852582f5d0d0dd127ffc5ab86da5c4.png",
-      "small": "course/en/assets/dfcab6b8e0852582f5d0d0dd127ffc5ab86da5c4.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
-    }
-  },
-  {
     "_component": "media",
     "_classes": "",
     "_isOptional": false,
@@ -4574,5 +4512,89 @@
       "small": "course/en/assets/5cda45107b755aa1738294dd1c449a3e83912f2e.jpg",
       "attribution": "<a href=\"https://unsplash.com/photos/-Za3zQvVdM8\" target=\"_blank\">Ben Pham</a> <span class='assetLicence'>[CC0]</span>"
     }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "<p>Very few data-project challenges are technical, and are mainly issues around business culture . Through these modules, we have explored how the right data culture is vital to enabling creative transformation at WPP.</p><p>Many data projects fail as they don’t have the right balance of skills. Successful data projects understand the need to mix strategic thought with practical application. The double diamond approach helps balance strategic thought in the first diamond with practical application in the second.&nbsp;</p>",
+    "_id": "5f1ac487e2392b005e9967f4",
+    "_parentId": "5f1ac487e2392b005e9967f3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary 2",
+    "displayTitle": "",
+    "body": "<p>Our approach with WPP Open is to support our community to get more creative with data. The WPP Open Data Catalogue and Data &amp; AI Ethics Guidelines have been created to help reduce the barriers and challenges in discovering, accessing and using data responsibly.&nbsp;</p><p>Getting creative with data also requires a diverse and multi-skilled team who are all aware of the opportunities and limitations of using data in projects.</p>",
+    "_id": "5f1ac48fe2392b005e9967f8",
+    "_parentId": "5f1ac487e2392b005e9967f3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Join us",
+    "displayTitle": "",
+    "body": "<p>If you would like to learn more or discuss the content of these modules we invite you to join the growing data community at WPP.&nbsp;</p>",
+    "_id": "5f1ac4e0e2392b005e9967fa",
+    "_parentId": "5f1ac4b7e2392b005e9967f9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
   }
 ]
