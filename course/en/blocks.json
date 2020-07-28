@@ -170,9 +170,9 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png",
+        "_medium": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png",
+        "_small": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -191,7 +191,7 @@
     "title": "Miniquiz intro",
     "displayTitle": "",
     "body": "",
-    "_classes": "section-banner",
+    "_classes": "",
     "_trackingId": 5,
     "instruction": "",
     "_isOptional": false,
@@ -217,9 +217,9 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/1e7f0b046e5c18b38c707f3302ee55b6136b50e5.png",
+        "_medium": "course/en/assets/1e7f0b046e5c18b38c707f3302ee55b6136b50e5.png",
+        "_small": "course/en/assets/1e7f0b046e5c18b38c707f3302ee55b6136b50e5.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -452,9 +452,9 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/1e7f0b046e5c18b38c707f3302ee55b6136b50e5.png",
+        "_medium": "course/en/assets/1e7f0b046e5c18b38c707f3302ee55b6136b50e5.png",
+        "_small": "course/en/assets/1e7f0b046e5c18b38c707f3302ee55b6136b50e5.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -734,9 +734,9 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png",
+        "_medium": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png",
+        "_small": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -828,9 +828,9 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png",
+        "_medium": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png",
+        "_small": "course/en/assets/b8155ebdeae138cc3f10454df3f47f3be8d38eac.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -922,9 +922,9 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/1e7f0b046e5c18b38c707f3302ee55b6136b50e5.png",
+        "_medium": "course/en/assets/1e7f0b046e5c18b38c707f3302ee55b6136b50e5.png",
+        "_small": "course/en/assets/1e7f0b046e5c18b38c707f3302ee55b6136b50e5.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -1157,9 +1157,56 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png",
+        "_medium": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png",
+        "_small": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png"
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Miniquiz Q2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 26,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f085179e19cd3006719ed00",
+    "_parentId": "5f084257e19cd3006719ece2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png",
+        "_medium": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png",
+        "_small": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -1179,7 +1226,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 26,
+    "_trackingId": 27,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1226,7 +1273,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 27,
+    "_trackingId": 28,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1251,9 +1298,9 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png",
+        "_medium": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png",
+        "_small": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -1273,7 +1320,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 28,
+    "_trackingId": 29,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1320,7 +1367,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-two inverted",
-    "_trackingId": 29,
+    "_trackingId": 30,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1367,7 +1414,7 @@
     "displayTitle": "",
     "body": "<p style=\"text-align: center;text-decoration: underline;\"><a style=\"cursor: pointer;font-size: 1.3rem;\" onclick=\"$('.caseStudies1').toggleClass('u-display-none');$(this).parent().hide();\">Click here to read more about the case studies in the video</a></p>",
     "_classes": "color-one inverted",
-    "_trackingId": 30,
+    "_trackingId": 31,
     "instruction": "",
     "_isOptional": true,
     "_isAvailable": true,
@@ -1414,7 +1461,7 @@
     "displayTitle": "Types of data in the WPP Open Data Catalog",
     "body": "",
     "_classes": "",
-    "_trackingId": 31,
+    "_trackingId": 32,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1439,9 +1486,9 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png",
+        "_medium": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png",
+        "_small": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -1461,7 +1508,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 32,
+    "_trackingId": 33,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1504,11 +1551,11 @@
     }
   },
   {
-    "title": "Miniquiz Q2",
+    "title": "Miniquiz Q3",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 33,
+    "_trackingId": 34,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1516,7 +1563,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f085179e19cd3006719ed00",
+    "_id": "5f08517ee19cd3006719ed05",
     "_parentId": "5f084257e19cd3006719ece2",
     "_type": "block",
     "_onScreen": {
@@ -1555,7 +1602,7 @@
     "displayTitle": "Getting stuck in",
     "body": "<p>When using data, the temptation is to skip the first diamond and take anything you can find (or already have) and start developing solutions.</p>",
     "_classes": "",
-    "_trackingId": 34,
+    "_trackingId": 35,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1580,9 +1627,9 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png",
+        "_medium": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png",
+        "_small": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -1602,7 +1649,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 35,
+    "_trackingId": 36,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1649,7 +1696,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-two",
-    "_trackingId": 36,
+    "_trackingId": 37,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1696,7 +1743,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 37,
+    "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1743,7 +1790,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 38,
+    "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1786,11 +1833,11 @@
     }
   },
   {
-    "title": "Miniquiz Q3",
+    "title": "Miniquiz - Q4",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 39,
+    "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1798,7 +1845,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f08517ee19cd3006719ed05",
+    "_id": "5f08517de19cd3006719ed03",
     "_parentId": "5f084257e19cd3006719ece2",
     "_type": "block",
     "_onScreen": {
@@ -1815,9 +1862,9 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png",
+        "_medium": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png",
+        "_small": "course/en/assets/716e452cab9c1f213196bbdb8065d55c0787453b.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -1837,7 +1884,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 40,
+    "_trackingId": 41,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1884,7 +1931,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 41,
+    "_trackingId": 42,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1909,9 +1956,9 @@
     },
     "_odi-generic": {
       "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+        "_large": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png",
+        "_medium": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png",
+        "_small": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png"
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,
@@ -1931,7 +1978,7 @@
     "displayTitle": "Common barriers (1): Hoarding data",
     "body": "",
     "_classes": "color-two inverted",
-    "_trackingId": 42,
+    "_trackingId": 43,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1978,7 +2025,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three inverted",
-    "_trackingId": 43,
+    "_trackingId": 44,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2006,53 +2053,6 @@
         "_large": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png",
         "_medium": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png",
         "_small": "course/en/assets/7d401ad15c4c2cb35dfe8feb89aa260ed638690f.png"
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Miniquiz - Q4",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 44,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f08517de19cd3006719ed03",
-    "_parentId": "5f084257e19cd3006719ece2",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
       },
       "_backgroundStyles": {
         "_backgroundRepeat": null,

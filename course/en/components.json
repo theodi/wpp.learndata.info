@@ -968,13 +968,18 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://player.vimeo.com/video/437180251?texttrack=en-gb",
+      "source": "https://player.vimeo.com/video/441765043?texttrack=en",
       "type": "video/vimeo",
       "poster": "",
-      "cc": []
+      "cc": [
+        {
+          "srclang": "en",
+          "src": "course/en/assets/927e0dd705817f68111f242fd0c5bbfc60b47f43.vtt"
+        }
+      ]
     },
     "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
+    "_useClosedCaptions": true,
     "_startLanguage": "en",
     "_showVolumeControl": false,
     "_startVolume": "80%",
@@ -1297,7 +1302,7 @@
       {
         "title": "Reaching new audiences",
         "_ariaLevel": 0,
-        "body": "<p dir=\"ltr\">Skillfully connected and processed, data becomes the infrastructure of a campaign – powering both creatives and personalised consumer experiences.&nbsp;</p><p dir=\"ltr\">VMLY&amp;R’s music genealogy engine searches, then combines billions of data points and text articles, in real-time, to show an artist’s musical chain of influence back to Tennessee – in less than six degrees of separation. For the first time, a new generation of fans could trace their favourite artists' influences to modern American music’s Tennessee roots. Visitors to the Rolling Stone website searched 431 million connections, resulting in a 9.8% increase in people travelling to Tennessee.</p>",
+        "body": "<p dir=\"ltr\">Skillfully connected and processed, data can drive campaigns – powering both creatives and personalised consumer experiences.&nbsp;</p><p dir=\"ltr\">VMLY&amp;R’s music genealogy engine searches, then combines billions of data points and text articles, in real-time, to show an artist’s musical chain of influence back to Tennessee – in less than six degrees of separation. For the first time, a new generation of fans could trace their favourite artists' influences to modern American music’s Tennessee roots. Visitors to the Rolling Stone website searched 431 million connections, resulting in a 9.8% increase in people travelling to Tennessee.</p>",
         "_graphic": {
           "src": "course/en/assets/20c025f7167d121d832bdc78b77512e6ddc58aee.png",
           "alt": "",
@@ -3271,7 +3276,7 @@
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/fab54367c8385132a75b5bd324056bd0411d5bb4.jpg",
-      "small": "course/en/assets/fab54367c8385132a75b5bd324056bd0411d5bb4.jpg",
+      "small": "course/en/assets/64ad1282304c08d48698cbbc01e9dbe6cc13049c.jpg",
       "attribution": "<a href=\"https://unsplash.com/photos/PJYOpJCcbRg\" target=\"_blank\">LOGAN WEAVER</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
@@ -3395,7 +3400,7 @@
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/69b1513ad3ced09c1fbc24ef1bcba4f487778ff0.jpg",
-      "small": "course/en/assets/69b1513ad3ced09c1fbc24ef1bcba4f487778ff0.jpg",
+      "small": "course/en/assets/27b8e7599a235564f03ab8dc7cd200c3cbb70ee5.jpg",
       "attribution": "<a href=\"https://unsplash.com/photos/mId2gG0a9GU\" target=\"_blank\">noor Younis</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
@@ -3553,7 +3558,7 @@
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/50fb83590aa3255ee5cd8dc164427218def83f37.jpg",
-      "small": "course/en/assets/50fb83590aa3255ee5cd8dc164427218def83f37.jpg",
+      "small": "course/en/assets/969d92facc4b5519ec0bdca11caa5b1bb9cbb509.jpg",
       "attribution": "<a href=\"https://www.pexels.com/photo/beige-analog-gauge-697662/\" target=\"_blank\">Ylanite Koppens</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
@@ -3649,7 +3654,7 @@
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/f9bf8b5a8ac75135d7ba5ca64cc71f654ed377d2.jpg",
-      "small": "course/en/assets/f9bf8b5a8ac75135d7ba5ca64cc71f654ed377d2.jpg",
+      "small": "course/en/assets/b65bbe9087771aba4e2cc3d16804c13a3f36b065.jpg",
       "attribution": "<a href=\"https://www.pexels.com/photo/creative-desk-pens-school-2170/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
@@ -3745,7 +3750,7 @@
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/e549daeab94dece43f08d5354d15555d96a95152.jpg",
-      "small": "course/en/assets/e549daeab94dece43f08d5354d15555d96a95152.jpg",
+      "small": "course/en/assets/93bdc9e842706d06d7cbe99eb0e5f6316b73bc7b.jpg",
       "attribution": "<a href=\"https://www.pexels.com/photo/coding-computer-data-depth-of-field-577585/\" target=\"_blank\">Kevin Ku</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
@@ -3831,7 +3836,7 @@
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/a9143ab8f3c00677aefc58d4bead79b6ec4eecf0.jpg",
-      "small": "course/en/assets/a9143ab8f3c00677aefc58d4bead79b6ec4eecf0.jpg",
+      "small": "course/en/assets/d1f7361327b981488746aacd95e609d72693bb84.jpg",
       "attribution": "<a href=\"https://unsplash.com/photos/3nbsbp4bDQA\" target=\"_blank\">Morning Brew</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
@@ -4090,7 +4095,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -4315,7 +4320,7 @@
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/f6ecdd459736ebdde32fa8177790be2f54fc8922.jpg",
-      "small": "course/en/assets/f6ecdd459736ebdde32fa8177790be2f54fc8922.jpg",
+      "small": "course/en/assets/46638b7c66b11d0cb725b4c3555bd1de9b516cd6.jpg",
       "attribution": "<a href=\"https://unsplash.com/photos/iW9oP7Ljkbg\" target=\"_blank\">Slidebean</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
@@ -4379,7 +4384,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -4413,7 +4418,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -4447,7 +4452,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -4481,7 +4486,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
