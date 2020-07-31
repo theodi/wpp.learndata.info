@@ -88,8 +88,8 @@
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "creative_transformation",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
@@ -109,9 +109,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_odi-generic": {
@@ -216,8 +216,8 @@
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "working_with_data_1",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
@@ -237,9 +237,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_odi-generic": {
@@ -472,8 +472,8 @@
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "working_with_data_2",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
@@ -493,9 +493,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_odi-generic": {
