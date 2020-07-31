@@ -1077,7 +1077,7 @@
     "_disableAccessibilityState": false,
     "title": "Creativity in marketting",
     "displayTitle": "",
-    "body": "<blockquote><p><strong>“Creativity in marketing exists for an agreed purpose. It is expected to have an effect on its audience: on their knowledge, on their feelings, on their behaviour. It is expected not only to pay for itself but to return more than its cost to its sponsor.”&nbsp;</strong></p><p><strong><em>--Jeremy Bullmore</em></strong></p></blockquote>",
+    "body": "<blockquote><p>“Creativity in marketing exists for an agreed purpose. It is expected to have an effect on its audience: on their knowledge, on their feelings, on their behaviour. It is expected not only to pay for itself but to return more than its cost to its sponsor.”&nbsp;</p><p><em>--Jeremy Bullmore</em></p></blockquote>",
     "_id": "5f071b1c1992c400eb9ed977",
     "_parentId": "5f071b041992c400eb9ed976",
     "_type": "component",
@@ -1220,7 +1220,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://player.vimeo.com/video/437596793",
+      "source": "https://player.vimeo.com/video/437596793?texttrack=en",
       "type": "video/vimeo",
       "poster": "",
       "cc": []
@@ -1453,7 +1453,7 @@
     "_disableAccessibilityState": false,
     "title": "Getting connected",
     "displayTitle": "",
-    "body": "<blockquote><p><strong>“A single piece of data only becomes useful – and therefore valuable – once combined with other data.”</strong></p><p><strong>-- The ODI</strong></p></blockquote>",
+    "body": "<blockquote><p><em>“A single piece of data only becomes useful – and therefore valuable – once combined with other data.”</em></p><p><em>-- The ODI</em></p></blockquote>",
     "_id": "5f071ef51992c400eb9ed988",
     "_parentId": "5f071ef51992c400eb9ed987",
     "_type": "component",
@@ -1642,7 +1642,7 @@
     "_disableAccessibilityState": false,
     "title": "Creativity in marketting",
     "displayTitle": "",
-    "body": "<blockquote><p><em><strong>“Big ideas come from the unconscious, but your unconscious has to be well informed or your idea will be irrelevant.”&nbsp;</strong></em></p><p><em><strong>-- David Ogilvy</strong></em></p></blockquote>",
+    "body": "<blockquote><p><em>“Big ideas come from the unconscious, but your unconscious has to be well informed or your idea will be irrelevant.”&nbsp;</em></p><p><em>-- David Ogilvy</em></p></blockquote>",
     "_id": "5f0720831992c400eb9ed992",
     "_parentId": "5f0720831992c400eb9ed991",
     "_type": "component",
@@ -1911,7 +1911,7 @@
     "_disableAccessibilityState": false,
     "title": "Respecting rights of data subjects",
     "displayTitle": "Respecting rights of data subjects",
-    "body": "<p>As well as respecting the rights of data owners, we must also respect the rights of data subjects: the people the data is about.&nbsp;</p><p>Data security and privacy are increasingly high-profile topics for regulators, consumers and our clients.</p><p>We know that data about consumers can be used as a powerful tool to personalise the customer experience and drive sales, but we are also committed to being transparent with consumers about how data about them is collected, used and shared.&nbsp;</p><p><span style=\"background-color:#FFFF00\">To learn more about data privacy and rights we recommend looking at the WPP data and AI ethics principles and guidelines.</span></p>",
+    "body": "<p>As well as respecting the rights of data owners, we must also respect the rights of data subjects: the people the data is about.&nbsp;</p><p>Data security and privacy are increasingly high-profile topics for regulators, consumers and our clients.</p><p>We know that data about consumers can be used as a powerful tool to personalise the customer experience and drive sales, but we are also committed to being transparent with consumers about how data about them is collected, used and shared.&nbsp;</p><p>To learn more about data privacy and rights we recommend looking at the WPP data and AI ethics principles and guidelines. These can be found via the <a href=\"https://wppcorp.sharepoint.com/sites/wpp-dataai-hub\" target=\"_blank\">Data and AI community pages</a>.</p>",
     "_id": "5f0844d6e19cd3006719ecf1",
     "_parentId": "5f0844c0e19cd3006719ecf0",
     "_type": "component",
@@ -2651,9 +2651,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Miniquiz: Our values",
-    "displayTitle": "Miniquiz: Our values",
-    "body": "<p>WPPs ethical values are designed to help guide those tricky decisions where people might have different moral beliefs. The miniquiz is not a test to see if your beliefs align, we are simply using it as an interactive learning mechanism. If you would like to discuss and discover more about our ethical values please come and talk to the community.</p>",
+    "title": "Mini quiz: Our values",
+    "displayTitle": "Mini quiz: Our values",
+    "body": "<p>WPPs ethical values are designed to help guide those tricky decisions where people might have different moral beliefs. The mini quiz is not a test to see if your beliefs align, we are simply using it as an interactive learning mechanism. If you would like to discuss and discover more about our ethical values please come and talk to the <a href=\"https://wppcorp.sharepoint.com/sites/wpp-dataai-hub\" target=\"_blank\">community</a>.</p>",
     "_id": "5f0864dd1b9bc4005e6b687a",
     "_parentId": "5f0864b41b9bc4005e6b6879",
     "_type": "component",
@@ -2709,13 +2709,13 @@
     "_bands": [
       {
         "_score": 0,
-        "feedback": "<p><strong>{{score}}/5</strong></p><p>Room for improvement, but don't worry, the team at WPP are here to help.</p><p>A good place to start are the community pages, where you can find out more about the frameworks and codes of practice for being trusted with data and how to contact the right person to help.&nbsp;</p>",
+        "feedback": "<p><strong>{{score}}/5</strong></p><p>Room for improvement, but don't worry, the team at WPP are here to help.</p><p>A good place to start are the <a href=\"https://wppcorp.sharepoint.com/sites/wpp-dataai-hub\" target=\"_blank\">community pages</a>, where you can find out more about the frameworks and codes of practice for being trusted with data and how to contact the right person to help.&nbsp;</p>",
         "_allowRetry": true,
         "_classes": ""
       },
       {
         "_score": 80,
-        "feedback": "<p><strong>{{score}}/5</strong></p><p>Great! The challenge is always putting it into practice.&nbsp;</p><p>The WPP community pages, where you can find out more about the frameworks and codes of practice, can help here.</p>",
+        "feedback": "<p><strong>{{score}}/5</strong></p><p>Great! The challenge is always putting it into practice.&nbsp;</p><p>The WPP <a href=\"https://wppcorp.sharepoint.com/sites/wpp-dataai-hub\" target=\"_blank\">community pages</a>, where you can find out more about the frameworks and codes of practice, can help here.</p>",
         "_allowRetry": true,
         "_classes": ""
       }
@@ -2767,7 +2767,7 @@
     "_disableAccessibilityState": false,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>WPP recognises its obligations to its stakeholders including shareowners, clients, its own people, suppliers and consumers.&nbsp;</p><p>We must respect and protect the rights of organisations and individuals alike and we must do this in a way that means that data is used not only lawfully but ethically.</p><p>Find out more about our codes of practice and ethical frameworks on the community pages, where you can also find our how to join the community and ask for help.</p>",
+    "body": "<p>WPP recognises its obligations to its stakeholders including shareowners, clients, its own people, suppliers and consumers.&nbsp;</p><p>We must respect and protect the rights of organisations and individuals alike and we must do this in a way that means that data is used not only lawfully but ethically.</p><p>Find out more about our codes of practice and ethical frameworks on the <a href=\"https://wppcorp.sharepoint.com/sites/wpp-dataai-hub\" target=\"_blank\">community pages</a>, where you can also find our how to join the community and ask for help.</p>",
     "_id": "5f0878ac1b9bc4005e6b6887",
     "_parentId": "5f08785e1b9bc4005e6b6886",
     "_type": "component",
@@ -3043,7 +3043,7 @@
     "_disableAccessibilityState": false,
     "title": "A ‘double diamond’ approach to data-centric projects",
     "displayTitle": "A ‘double diamond’ approach to data-centric projects",
-    "body": "<p>The double diamond is a structured design approach to tackle challenges in two stages consisting of four phases: discover, define, develop and deliver.</p><p>You may have come across the excellent and widely recognised double diamond model before – based on a model proposed by Béla H. Bánáthy, and popularised by the Design Council. So perhaps it might come as no surprise that the same methodology can be applied to data to help you understand where and when it fits within a project.</p><p>&nbsp;</p>",
+    "body": "<p>The double diamond is a structured design approach to tackle challenges in two stages consisting of four phases: discover, define, develop and deliver.</p><p>You may have come across the excellent and widely recognised double diamond model before – based on a model proposed by Béla H. Bánáthy, and popularised by the British Design Council. So perhaps it might come as no surprise that the same methodology can be applied to data to help you understand where and when it fits within a project.</p><p>&nbsp;</p>",
     "_id": "5f1558b995fde34f67ce10dd",
     "_parentId": "5f15588395fde34f67ce10dc",
     "_type": "component",
@@ -3476,8 +3476,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Phase 1: Discovery phase",
-    "displayTitle": "Phase 1: Discovery phase",
+    "title": "Phase 1: Discovery",
+    "displayTitle": "Phase 1: Discovery",
     "body": "<p>By the end of this phase it is important to understand potential opportunities as well as challenges that will need to be addressed.&nbsp;</p><p>Some of the key activities in the first phase include:</p>",
     "_id": "5f15767e95fde34f67ce10f9",
     "_parentId": "5f15766795fde34f67ce10f7",
@@ -3517,7 +3517,7 @@
       },
       {
         "title": "Address legal, ethical and other barriers related to objectives",
-        "body": "<p>Any project that brings together data is likely to face some legal and ethical challenges. If data is openly licensed, it can be used immediately. In other circumstances, you might have to pay for a licence that grants you use of the data. In addition to being a data repository, The WPP Open Data Catalog also helps identify rights over data and indicates where payments may be required.</p><p>Even once rights are obtained, it is important to consider the ethics of using the data. More can be discovered in the accompanying module on Being Trusted with Data and our <span style=\"background-color:#FFFF00\">WPP Data &amp; AI Ethics Guidelines</span>.</p>",
+        "body": "<p>Any project that brings together data is likely to face some legal and ethical challenges. If data is openly licensed, it can be used immediately. In other circumstances, you might have to pay for a licence that grants you use of the data. In addition to being a data repository, The WPP Open Data Catalog also helps identify rights over data and indicates where payments may be required.</p><p>Even once rights are obtained, it is important to consider the ethics of using the data. More can be discovered in the accompanying module on Being Trusted with Data.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3538,7 +3538,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Phase 1: Discovery phase",
+    "title": "Phase 1: Discovery",
     "displayTitle": "",
     "body": "",
     "_id": "5f15768195fde34f67ce10fa",
@@ -3572,8 +3572,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Phase 2: Refinement phase",
-    "displayTitle": "Phase 2: Refinement phase",
+    "title": "Phase 2: Refinement",
+    "displayTitle": "Phase 2: Refinement",
     "body": "<p>During the refinement phase it is important to establish the suitability of the data to address the project's potential objectives.</p><p>Some of the key activities in the second phase include:</p>",
     "_id": "5f1576af95fde34f67ce10ff",
     "_parentId": "5f1576ae95fde34f67ce10fe",
@@ -3634,7 +3634,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Phase 2: Refinement phase",
+    "title": "Phase 2: Refinement",
     "displayTitle": "",
     "body": "",
     "_id": "5f1576af95fde34f67ce1100",
@@ -3668,8 +3668,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Phase 3: Development phase",
-    "displayTitle": "Phase 3: Development phase",
+    "title": "Phase 3: Development",
+    "displayTitle": "Phase 3: Development",
     "body": "<p>The first stage of the second diamond is another ideation phase and is all about exploring techniques to deliver the project’s specific objectives.&nbsp;</p><p>This may include:<br />&nbsp;</p>",
     "_id": "5f1576b895fde34f67ce1105",
     "_parentId": "5f1576b895fde34f67ce1104",
@@ -3730,7 +3730,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Phase 3: Development phase",
+    "title": "Phase 3: Development",
     "displayTitle": "",
     "body": "",
     "_id": "5f1576b895fde34f67ce1106",
@@ -3764,8 +3764,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Phase 4: Delivery phase",
-    "displayTitle": "Phase 4: Delivery phase",
+    "title": "Phase 4: Delivery",
+    "displayTitle": "Phase 4: Delivery",
     "body": "<p>By now, everything should be set in stone and this phase is about delivering the final product.</p><p>In addition to these are are other important aspects to ensure successful delivery:</p>",
     "_id": "5f1576c195fde34f67ce110b",
     "_parentId": "5f1576c195fde34f67ce110a",
@@ -3816,7 +3816,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Phase 4: Delivery phase",
+    "title": "Phase 4: Delivery",
     "displayTitle": "",
     "body": "",
     "_id": "5f1576c195fde34f67ce110c",
@@ -3895,9 +3895,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">If you spot something going wrong, following the process can suggest where you need to go back and iterate. The diverging and converging process allows you to easily go back to the divergence stage, which may provide a route to a solution. Iterating also works well to build confidence in the final product.This could be done by taking a new stakeholder through the stages to get input or sign off.</p>",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">If you spot something going wrong, following the process can suggest where you need to go back and iterate. The diverging and converging process allows you to easily go back to the divergence stage, which may provide a route to a solution. Iterating also works well to build confidence in the final product. This could be done by taking a new stakeholder through the stages to get input or sign off.</p>",
       "_incorrect": {
-        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">If you spot something going wrong, following the process can suggest where you need to go back and iterate. The diverging and converging process allows you to easily go back to the divergence stage, which may provide a route to a solution. Iterating also works well to build confidence in the final product.This could be done by taking a new stakeholder through the stages to get input or sign off.</p>",
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">If you spot something going wrong, following the process can suggest where you need to go back and iterate. The diverging and converging process allows you to easily go back to the divergence stage, which may provide a route to a solution. Iterating also works well to build confidence in the final product. This could be done by taking a new stakeholder through the stages to get input or sign off.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3976,19 +3976,19 @@
             "_isCorrect": false
           },
           {
-            "text": "Phase 1",
+            "text": "Phase 1: Discovery",
             "_isCorrect": false
           },
           {
-            "text": "Phase 2",
+            "text": "Phase 2: Refinement",
             "_isCorrect": true
           },
           {
-            "text": "Phase 3",
+            "text": "Phase 3: Development",
             "_isCorrect": false
           },
           {
-            "text": "Phase 4",
+            "text": "Phase 4: Delivery",
             "_isCorrect": false
           },
           {
@@ -4005,19 +4005,19 @@
             "_isCorrect": false
           },
           {
-            "text": "Phase 1",
+            "text": "Phase 1: Discovery",
             "_isCorrect": true
           },
           {
-            "text": "Phase 2",
+            "text": "Phase 2: Refinement",
             "_isCorrect": false
           },
           {
-            "text": "Phase 3",
+            "text": "Phase 3: Development",
             "_isCorrect": false
           },
           {
-            "text": "Phase 4",
+            "text": "Phase 4: Delivery",
             "_isCorrect": false
           },
           {
@@ -4034,19 +4034,19 @@
             "_isCorrect": false
           },
           {
-            "text": "Phase 1",
+            "text": "Phase 1: Discovery",
             "_isCorrect": false
           },
           {
-            "text": "Phase 2",
+            "text": "Phase 2: Refinement",
             "_isCorrect": false
           },
           {
-            "text": "Phase 3",
+            "text": "Phase 3: Development",
             "_isCorrect": true
           },
           {
-            "text": "Phase 4",
+            "text": "Phase 4: Delivery",
             "_isCorrect": false
           },
           {
@@ -4173,19 +4173,19 @@
             "_isCorrect": false
           },
           {
-            "text": "Phase 1",
+            "text": "Phase 1: Discovery",
             "_isCorrect": false
           },
           {
-            "text": "Phase 2",
+            "text": "Phase 2: Refinement",
             "_isCorrect": false
           },
           {
-            "text": "Phase 3",
+            "text": "Phase 3: Development",
             "_isCorrect": true
           },
           {
-            "text": "Phase 4",
+            "text": "Phase 4: Delivery",
             "_isCorrect": false
           },
           {
@@ -4202,19 +4202,19 @@
             "_isCorrect": false
           },
           {
-            "text": "Phase 1",
+            "text": "Phase 1: Discovery",
             "_isCorrect": false
           },
           {
-            "text": "Phase 2",
+            "text": "Phase 2: Refinement",
             "_isCorrect": true
           },
           {
-            "text": "Phase 3",
+            "text": "Phase 3: Development",
             "_isCorrect": false
           },
           {
-            "text": "Phase 4",
+            "text": "Phase 4: Delivery",
             "_isCorrect": false
           },
           {
@@ -4231,19 +4231,19 @@
             "_isCorrect": false
           },
           {
-            "text": "Phase 1",
+            "text": "Phase 1: Discovery",
             "_isCorrect": false
           },
           {
-            "text": "Phase 2",
+            "text": "Phase 2: Refinement",
             "_isCorrect": false
           },
           {
-            "text": "Phase 3",
+            "text": "Phase 3: Development",
             "_isCorrect": false
           },
           {
-            "text": "Phase 4",
+            "text": "Phase 4: Delivery",
             "_isCorrect": false
           },
           {
@@ -4586,7 +4586,7 @@
     "_disableAccessibilityState": false,
     "title": "Join us",
     "displayTitle": "",
-    "body": "<p>If you would like to learn more or discuss the content of these modules we invite you to join the growing data community at WPP.&nbsp;</p>",
+    "body": "<p>If you would like to learn more or discuss the content of these modules we invite you to join the growing <a href=\"https://wppcorp.sharepoint.com/sites/wpp-dataai-hub\" target=\"_blank\">data and AI&nbsp;community</a> at WPP.&nbsp;</p>",
     "_id": "5f1ac4e0e2392b005e9967fa",
     "_parentId": "5f1ac4b7e2392b005e9967f9",
     "_type": "component",

@@ -143,7 +143,7 @@
   {
     "title": "Identifying and managing ethical concerns",
     "displayTitle": "Identifying and managing ethical concerns",
-    "body": "<p>To become trusted with data, we will be putting together our own WPP guidelines and rolling out training and resources for everyone. Our ethics guidelines take many queues from the Open Data Institute's Data Ethics Canvas which considers four key areas.&nbsp; We used the first two areas (data and impact) of this canvas when putting together our own WPP guidelines, and we'll be using the last two (engagement and process) when rolling them out to agencies.</p>",
+    "body": "<p>To become trusted with data, we have put together our own WPP principles &amp; guidelines and are rolling out training and resources for everyone. Our ethics guidelines take many queues from the Open Data Institute's Data Ethics Canvas which considers four key areas.&nbsp;We used the first two areas (data and impact) of this canvas when putting together our own WPP guidelines, and we'll be using the last two (engagement and process) when rolling them out to agencies.</p>",
     "_classes": "",
     "_trackingId": 4,
     "instruction": "",
@@ -188,7 +188,7 @@
     }
   },
   {
-    "title": "Miniquiz intro",
+    "title": "Mini quiz intro",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -846,7 +846,7 @@
     }
   },
   {
-    "title": "Phase 1: Discovery phase",
+    "title": "Phase 1: Discovery",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1269,7 +1269,7 @@
     }
   },
   {
-    "title": "Phase 2: Refinement phase",
+    "title": "Phase 2: Refinement",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1645,7 +1645,7 @@
     }
   },
   {
-    "title": "Phase 3: Development phase",
+    "title": "Phase 3: Development",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1927,7 +1927,7 @@
     }
   },
   {
-    "title": "Phase 4: Delivery phase",
+    "title": "Phase 4: Delivery",
     "displayTitle": "",
     "body": "",
     "_classes": "",
