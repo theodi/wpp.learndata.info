@@ -1,0 +1,1441 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Working with data",
+    "displayTitle": "Working with data",
+    "body": "<p>As we have seen in Module 2, data is a creative material. It does not exist simply to be processed in a spreadsheet and turned into a chart. Data can tell intriguing stories, create powerful experiences and lead a brand. But for data to create these experiences we need to ensure that working practices around data are robust.&nbsp;</p><p>This module will give a high-level overview of the processes and skills required to work practically with data to ensure high quality, robust results.&nbsp;</p><p>This module introduces a ‘double diamond’ approach to data-centric projects and the four key phases involved.&nbsp;</p>",
+    "_id": "5f24285d41097409545146ca",
+    "_parentId": "5f24285d4109740954514682",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "WPP Logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146cb",
+    "_parentId": "5f24285d4109740954514682",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png",
+      "small": "course/en/assets/b5e1361770c4ce87b7a6a94dd00a970d33e0dcf1.png",
+      "attribution": "<a href=\"https://wpp.com\" target=\"_blank\">WPP</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A ‘double diamond’ approach to data-centric projects",
+    "displayTitle": "A ‘double diamond’ approach to data-centric projects",
+    "body": "<p>The double diamond is a structured design approach to tackle challenges in two stages consisting of four phases: discover, define, develop and deliver.</p><p>You may have come across the excellent and widely recognised double diamond model before – based on a model proposed by Béla H. Bánáthy, and popularised by the British Design Council. So perhaps it might come as no surprise that the same methodology can be applied to data to help you understand where and when it fits within a project.</p><p>&nbsp;</p>",
+    "_id": "5f24285d41097409545146cc",
+    "_parentId": "5f24285d4109740954514683",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/055e308737923bc4bca4cae5bfc4de27a88f441a.png",
+      "small": "course/en/assets/055e308737923bc4bca4cae5bfc4de27a88f441a.png",
+      "attribution": "<a href=\"https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond\" target=\"_blank\">ODI/Design Council</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The two diamonds",
+    "displayTitle": "The two diamonds",
+    "body": "<p>Each diamond represents a process of divergence and convergence. A diverging phase encourages broad and open thinking without limitation, whereas a converging phase focuses on condensing and narrowing ideas.&nbsp;</p><p>The four phases of the double diamond may be simplified and merged into two main stages (or diamonds):</p>",
+    "_id": "5f24285d41097409545146cd",
+    "_parentId": "5f24285d4109740954514684",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Diamond 1:  Doing the right thing",
+        "body": "<p>The first diamond is about ensuring that whatever is produced represents the best solution for the customer; and that it is able to be developed and delivered in a responsible and trustworthy way.&nbsp;</p><p>At the end of the first diamond it should be very clear what role data will play in a creative solution.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Diamond 2: Doing things right",
+        "body": "<p>Having defined the role data will play in a creative solution, the next phase is about how this is delivered. Several potential solutions might be developed and tried before one or more is picked to be a part of the final product.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Divergence, convergence",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146ce",
+    "_parentId": "5f24285d4109740954514684",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e2107e930421ded2fae7410a785e49294857a8db.png",
+      "small": "course/en/assets/e2107e930421ded2fae7410a785e49294857a8db.png",
+      "attribution": "<a href=\"https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond\" target=\"_blank\">ODI/The Design Council</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Getting stuck in",
+    "displayTitle": "",
+    "body": "<p>What are the potential risks if the first diamond is skipped?</p>",
+    "_id": "5f24285d41097409545146cf",
+    "_parentId": "5f24285d4109740954514685",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Time is wasted trying to develop the wrong products",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Products are developed using unsuitable data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Developed products have legal and ethical problems",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": -1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">Too many skip the first diamond and run into serious problems when it is found that time and money have been spent developing something that is fundamentally the wrong solution. Just like it is of critical importance to understand customers’ needs when it comes to developing creative advertising or brand, the same is true when using data.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p>Too many skip the first diamond and run into serious problems when it is found that time and money have been spent developing something that is fundamentally the wrong solution. Just like it is of critical importance to understand customers’ needs when it comes to developing creative advertising or brand, the same is true when using data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Skip first diamond",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146d0",
+    "_parentId": "5f24285d4109740954514685",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fab54367c8385132a75b5bd324056bd0411d5bb4.jpg",
+      "small": "course/en/assets/64ad1282304c08d48698cbbc01e9dbe6cc13049c.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/PJYOpJCcbRg\" target=\"_blank\">LOGAN WEAVER</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Planning your time",
+    "displayTitle": "Planning your time",
+    "body": "<p>As a percentage, how long do you think should be allocated to the first diamond compared to the second?</p>",
+    "_id": "5f24285d41097409545146d1",
+    "_parentId": "5f24285d4109740954514686",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Up to 30%",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Up to 50%",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Up to 80%",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": -1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>It follows the 80:20 rule!&nbsp;Up to 80% of time is spent in the discovering and definition phases: coming up with a project plan, gathering and establishing the usability of data. During the second stage, although a number of potential solutions could be developed, evaluating these against a clear set of objectives can often be done as each is developed, with the most suitable solution emerging.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>It follows the 80:20 rule!&nbsp;Up to 80% of time is spent in the discovering and definition phases: coming up with a project plan, gathering and establishing the usability of data. During the second stage, although a number of potential solutions could be developed, evaluating these against a clear set of objectives can often be done as each is developed, with the most suitable solution emerging.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q2: Planning your time",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146d2",
+    "_parentId": "5f24285d4109740954514686",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/69b1513ad3ced09c1fbc24ef1bcba4f487778ff0.jpg",
+      "small": "course/en/assets/27b8e7599a235564f03ab8dc7cd200c3cbb70ee5.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/mId2gG0a9GU\" target=\"_blank\">noor Younis</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Exploring the four phases",
+    "displayTitle": "Exploring the four phases",
+    "body": "<p>The following section explores the data-related aspects of the phases in a little more depth.</p>",
+    "_id": "5f24285d41097409545146d3",
+    "_parentId": "5f24285d4109740954514687",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Exploring the four phases",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146d4",
+    "_parentId": "5f24285d4109740954514687",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8ac04924ab75deae8cd22d202813dfb9fdf194c6.png",
+      "small": "course/en/assets/8ac04924ab75deae8cd22d202813dfb9fdf194c6.png",
+      "attribution": "<a href=\"https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond\" target=\"_blank\">ODI/The Design Council</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Phase 1: Discovery",
+    "displayTitle": "Phase 1: Discovery",
+    "body": "<p>By the end of this phase it is important to understand potential opportunities as well as challenges that will need to be addressed.&nbsp;</p><p>Some of the key activities in the first phase include:</p>",
+    "_id": "5f24285d41097409545146d5",
+    "_parentId": "5f24285d4109740954514688",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Ideate potential objectives",
+        "body": "<p>Key your mind open to new opportunities. Although the project may have a clear goal that needs to be achieved (for example, design a new brand), how this is achieved and what role data can play will likely not yet be clear. During the discovery phase, lots of potential ideas should be explored.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Discover objective-focused data",
+        "body": "<p>Sometimes the data itself can present new opportunities, but discovering what data is available can often take significant time and effort. The WPP Open Data Catalog is designed to help reduce some of the time spent during this phase, connecting people not just to new datasets, but also to colleagues who manage them and can help scope objectives.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Address legal, ethical and other barriers related to objectives",
+        "body": "<p>Any project that brings together data is likely to face some legal and ethical challenges. If data is openly licensed, it can be used immediately. In other circumstances, you might have to pay for a licence that grants you use of the data. In addition to being a data repository, The WPP Open Data Catalog also helps identify rights over data and indicates where payments may be required.</p><p>Even once rights are obtained, it is important to consider the ethics of using the data. More can be discovered in the accompanying module on Being Trusted with Data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Phase 1: Discovery",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146d6",
+    "_parentId": "5f24285d4109740954514688",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/50fb83590aa3255ee5cd8dc164427218def83f37.jpg",
+      "small": "course/en/assets/969d92facc4b5519ec0bdca11caa5b1bb9cbb509.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/beige-analog-gauge-697662/\" target=\"_blank\">Ylanite Koppens</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Phase 2: Refinement",
+    "displayTitle": "Phase 2: Refinement",
+    "body": "<p>During the refinement phase it is important to establish the suitability of the data to address the project's potential objectives.</p><p>Some of the key activities in the second phase include:</p>",
+    "_id": "5f24285d41097409545146d7",
+    "_parentId": "5f24285d4109740954514689",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Gathering, organising and quality check data sources",
+        "body": "<p>This can involve anything from checking that column titles in data match, that unit descriptions are aligned, that colour spaces are consistent in images, or that audio is normalised to the same gain. Even then there may still be errors in the data itself, for example corrupt pixels in an image, missing frames in a video, or non-consistent date formats in a spreadsheet. All these errors will need to be identified and corrected if they are likely to affect the project outcomes.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Performing exploratory data analysis",
+        "body": "<p>Even when data is error free it may still be unsuitable for use. This is where exploratory data analysis comes in. Exploratory data analysis refers to the critical process of performing initial investigations on data to discover patterns, spot anomalies, discover bias and to check assumptions.</p><p>For example your dataset might be of high quality, but if it only represents certain demographics it might be completely unsuitable for use in a country-wide marketing campaign. In this case it may be necessary to collate additional data or adopt multiple approaches.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Review against objectives, legal and ethical requirements",
+        "body": "<p>The final stage of the first diamond involves reflecting on everything learned to refine the project's objective and the role of data in the project. The resulting plan should outline what needs to be developed to scale the project ready for delivery.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Phase 2: Refinement",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146d8",
+    "_parentId": "5f24285d4109740954514689",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f9bf8b5a8ac75135d7ba5ca64cc71f654ed377d2.jpg",
+      "small": "course/en/assets/b65bbe9087771aba4e2cc3d16804c13a3f36b065.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/creative-desk-pens-school-2170/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Phase 3: Development",
+    "displayTitle": "Phase 3: Development",
+    "body": "<p>The first stage of the second diamond is another ideation phase and is all about exploring techniques to deliver the project’s specific objectives.&nbsp;</p><p>This may include:<br />&nbsp;</p>",
+    "_id": "5f24285d41097409545146d9",
+    "_parentId": "5f24285d410974095451468a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Develop prototype solutions",
+        "body": "<p>Key to this phase is the development of several prototype solutions. In the same way as a designer may present several options for a new brand, &nbsp;there are many options for how data can be integrated creatively into a product. Putting forward several possible solutions for evaluation will help inform the decision, and can help identify any required changes.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Making the solution sustainable",
+        "body": "<p>To sustain the product it may be necessary to develop a data infrastructure. The infrastructure will support the ongoing data lifecycle: from ensuring data is up to date and automating quality checking; through to flagging anomalies, data cleaning and disposal.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Document processes",
+        "body": "<p>During the prototyping phase it is important to document learning. While developing prototypes, additional data processing may reveal new insights or limitations. This will help at this diamond’s refinement stage when you choose which prototype(s) to take forward into the delivery phase.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Phase 3: Development",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146da",
+    "_parentId": "5f24285d410974095451468a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e549daeab94dece43f08d5354d15555d96a95152.jpg",
+      "small": "course/en/assets/93bdc9e842706d06d7cbe99eb0e5f6316b73bc7b.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/coding-computer-data-depth-of-field-577585/\" target=\"_blank\">Kevin Ku</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Phase 4: Delivery",
+    "displayTitle": "Phase 4: Delivery",
+    "body": "<p>By now, everything should be set in stone and this phase is about delivering the final product.</p><p>In addition to these are are other important aspects to ensure successful delivery:</p>",
+    "_id": "5f24285d41097409545146db",
+    "_parentId": "5f24285d410974095451468b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Review against objectives, legal and ethical requirements",
+        "body": "<p>At this point it is important to check that the project's objectives will be met, and that legal and ethical requirements have been incorporated. A good way to do this is to go through the whole process with a colleague who has not been involved in the project, sense checking the choices at each stage.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Enact sustainability and engagement plan",
+        "body": "<p>Ensuring that sustainability and engagement with wider audiences are built in from the start is critical for the continued success of any project. It is no different with data projects. Engagement plans should also include how people can raise any concerns and what the process is for responding to these. This is especially the case when using artificial intelligence (AI) systems where there should be a process for flagging and rectifying any built-in bias. Sustainability and engagement plans will also help with any future issues around communication, risks of misinterpretation and ensuring the system is future proofed.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Phase 4: Delivery",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146dc",
+    "_parentId": "5f24285d410974095451468b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a9143ab8f3c00677aefc58d4bead79b6ec4eecf0.jpg",
+      "small": "course/en/assets/d1f7361327b981488746aacd95e609d72693bb84.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/3nbsbp4bDQA\" target=\"_blank\">Morning Brew</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Dealing with challenges",
+    "displayTitle": "Dealing with challenges",
+    "body": "<p>It is inevitable there will be challenges in any project. The double diamond model is designed to lead you through the process in a controlled way, but what options do you have if something does go wrong at any point?</p>",
+    "_id": "5f24285d41097409545146dd",
+    "_parentId": "5f24285d410974095451468c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'Submit'",
+    "_items": [
+      {
+        "text": "Give up",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Iterate one or more phases or diamonds.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Start from the first diamond again",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": -1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">If you spot something going wrong, following the process can suggest where you need to go back and iterate. The diverging and converging process allows you to easily go back to the divergence stage, which may provide a route to a solution. Iterating also works well to build confidence in the final product. This could be done by taking a new stakeholder through the stages to get input or sign off.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">If you spot something going wrong, following the process can suggest where you need to go back and iterate. The diverging and converging process allows you to easily go back to the divergence stage, which may provide a route to a solution. Iterating also works well to build confidence in the final product. This could be done by taking a new stakeholder through the stages to get input or sign off.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Can you remember the stages?",
+    "displayTitle": "",
+    "body": "<p>See if you can match where the following activity types belong within the four phases:</p>",
+    "_id": "5f24285d41097409545146de",
+    "_parentId": "5f24285d410974095451468d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": -1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Agree final project plan",
+        "_options": [
+          {
+            "text": "Before phase 1",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 1: Discovery",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 2: Refinement",
+            "_isCorrect": true
+          },
+          {
+            "text": "Phase 3: Development",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 4: Delivery",
+            "_isCorrect": false
+          },
+          {
+            "text": "All phases",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Data discovery",
+        "_options": [
+          {
+            "text": "Before phase 1",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 1: Discovery",
+            "_isCorrect": true
+          },
+          {
+            "text": "Phase 2: Refinement",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 3: Development",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 4: Delivery",
+            "_isCorrect": false
+          },
+          {
+            "text": "All phases",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Exploratory data analysis",
+        "_options": [
+          {
+            "text": "Before phase 1",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 1: Discovery",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 2: Refinement",
+            "_isCorrect": true
+          },
+          {
+            "text": "Phase 3: Development",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 4: Delivery",
+            "_isCorrect": false
+          },
+          {
+            "text": "All phases",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right?</strong></p><p>These are all activities that happen during the second diamond and ensure that the project delivers the right solution to the client. Several potential solutions might be developed, tried and tested against the objectives, legal and ethical requirements, before one or more is picked to be a part of the final product.<br />&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>These are all activities that happen during the second diamond and ensure that the project delivers the right solution to the client. Several potential solutions might be developed, tried and tested against the objectives, legal and ethical requirements, before one or more is picked to be a part of the final product.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Can you remember the stages?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146df",
+    "_parentId": "5f24285d410974095451468d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/46bd5c29bfc8e8de4d9dae77be4ff950c0c45e90.jpg",
+      "small": "course/en/assets/46bd5c29bfc8e8de4d9dae77be4ff950c0c45e90.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/vfzfavUZmfc\" target=\"_blank\">delfi de la Rua</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Can you remember the stages?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146e0",
+    "_parentId": "5f24285d410974095451468e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "How about these?",
+    "_attempts": -1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Build data infrastructure",
+        "_options": [
+          {
+            "text": "Before phase 1",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 1: Discovery",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 2: Refinement",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 3: Development",
+            "_isCorrect": true
+          },
+          {
+            "text": "Phase 4: Delivery",
+            "_isCorrect": false
+          },
+          {
+            "text": "All phases",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": " Develop prototype solutions",
+        "_options": [
+          {
+            "text": "Before phase 1",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 1: Discovery",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 2: Refinement",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 3: Development",
+            "_isCorrect": true
+          },
+          {
+            "text": "Phase 4: Delivery",
+            "_isCorrect": false
+          },
+          {
+            "text": "All phases",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Check against objectives, legal and ethical requirements",
+        "_options": [
+          {
+            "text": "Before phase 1",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 1: Discovery",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 2: Refinement",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 3: Development",
+            "_isCorrect": false
+          },
+          {
+            "text": "Phase 4: Delivery",
+            "_isCorrect": false
+          },
+          {
+            "text": "All phases",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>These are all activities that happen during the second diamond and ensure that the project delivers the right solution to the client. Several potential solutions might be developed, tried and tested against the objectives, legal and ethical requirements, before one or more is picked to be a part of the final product.<br />&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>These are all activities that happen during the second diamond and ensure that the project delivers the right solution to the client. Several potential solutions might be developed, tried and tested against the objectives, legal and ethical requirements, before one or more is picked to be a part of the final product.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Can you remember the stages?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f24285d41097409545146e1",
+    "_parentId": "5f24285d410974095451468e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f6ecdd459736ebdde32fa8177790be2f54fc8922.jpg",
+      "small": "course/en/assets/46638b7c66b11d0cb725b4c3555bd1de9b516cd6.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/iW9oP7Ljkbg\" target=\"_blank\">Slidebean</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "<p>Very few data-project challenges are technical, and are mainly issues around business culture . Through these modules, we have explored how the right data culture is vital to enabling creative transformation at WPP.</p><p>Many data projects fail as they don’t have the right balance of skills. Successful data projects understand the need to mix strategic thought with practical application. The double diamond approach helps balance strategic thought in the first diamond with practical application in the second.&nbsp;</p>",
+    "_id": "5f24285d41097409545146e7",
+    "_parentId": "5f24285d4109740954514690",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary 2",
+    "displayTitle": "",
+    "body": "<p>Our approach with WPP Open is to support our community to get more creative with data. The WPP Open Data Catalogue and Data &amp; AI Ethics Guidelines have been created to help reduce the barriers and challenges in discovering, accessing and using data responsibly.&nbsp;</p><p>Getting creative with data also requires a diverse and multi-skilled team who are all aware of the opportunities and limitations of using data in projects.</p>",
+    "_id": "5f24285d41097409545146e8",
+    "_parentId": "5f24285d4109740954514690",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Join us",
+    "displayTitle": "",
+    "body": "<p>If you would like to learn more or discuss the content of these modules we invite you to join the growing <a href=\"https://wppcorp.sharepoint.com/sites/wpp-dataai-hub\" target=\"_blank\">data and AI&nbsp;community</a> at WPP.&nbsp;</p>",
+    "_id": "5f24285d41097409545146e9",
+    "_parentId": "5f24285d4109740954514691",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  }
+]
