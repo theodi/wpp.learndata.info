@@ -1,8 +1,8 @@
 [
   {
-    "title": "The data landscape",
-    "displayTitle": "The data landscape",
-    "body": "<p>Data is moving from being scarce and difficult to process to being abundant and easy to use.</p><p>However, to realise the full benefits that data can bring, businesses must understand the ‘data landscape’.</p><p>This module explores the data landscape at WPP and how we are looking to unlock the full potential of data in creative transformation.&nbsp;&nbsp;</p>",
+    "title": "Using data for creative transformation",
+    "displayTitle": "Using data for creative transformation",
+    "body": "<p dir=\"ltr\">Our clients pay for high-quality data products and services that deliver value: value that is created by releasing data from silos and putting it to work.</p><p dir=\"ltr\">This module looks at how data provides new perspectives on markets, consumers and brands. We consider how these new perspectives get results when they shape creative ideas, make our work more efficient, and deliver better results for our clients.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "",
@@ -18,12 +18,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f2420dc4109740954514207",
-    "_type": "page",
+    "_id": "5f24226b4109740954514373",
     "_parentId": "course",
+    "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/4c2c01ab8fdaed926d3b3ab2676a63bce118624e.png"
+      "src": "course/en/assets/1ec5a05d36db9da050fdd5d3a7205929bc7072f1.png"
     },
     "_onScreen": {
       "_isEnabled": false,

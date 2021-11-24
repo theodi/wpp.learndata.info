@@ -1,6 +1,6 @@
 [
   {
-    "title": "The data landscape",
+    "title": "Using data for creative transformation",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -11,8 +11,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f2420dc410974095451420b",
-    "_parentId": "5f2420dc4109740954514207",
+    "_id": "5f24226b4109740954514377",
+    "_parentId": "5f24226b4109740954514373",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -25,10 +25,10 @@
     },
     "_assessment": {
       "_isEnabled": true,
-      "_id": "data_landscape",
+      "_id": "creative_transformation",
       "_attempts": -1,
       "_isPercentageBased": true,
-      "_scoreToPass": 100,
+      "_scoreToPass": 60,
       "_includeInTotalScore": true,
       "_assessmentWeight": 1,
       "_suppressMarking": false,
