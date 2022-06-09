@@ -19,21 +19,19 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_isEnabled": true,
       "_id": "creative_transformation",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
+      "_correctToPass": 60,
       "_includeInTotalScore": true,
       "_assessmentWeight": 1,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
       "_randomisation": {
         "_isEnabled": false,
         "_blockCount": -1
@@ -49,6 +47,10 @@
         "_canShowMarking": true,
         "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {

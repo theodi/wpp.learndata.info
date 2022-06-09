@@ -518,6 +518,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
@@ -537,7 +546,7 @@
       },
       {
         "title": "Discover objective-focused data",
-        "body": "<p>Sometimes the data itself can present new opportunities, but discovering what data is available can often take significant time and effort. The WPP Open Data Catalog is designed to help reduce some of the time spent during this phase, connecting people not just to new datasets, but also to colleagues who manage them and can help scope objectives.</p>",
+        "body": "<p>Sometimes the data itself can present new opportunities, but discovering what data is available can often take significant time and effort. The <a href=\"https://open.wpp.com/data/data-catalog/\" target=\"_blank\">WPP Open Data Catalog</a> is designed to help reduce some of the time spent during this phase, connecting people not just to new datasets, but also to colleagues who manage them and can help scope objectives.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -547,7 +556,7 @@
       },
       {
         "title": "Address legal, ethical and other barriers related to objectives",
-        "body": "<p>Any project that brings together data is likely to face some legal and ethical challenges. If data is openly licensed, it can be used immediately. In other circumstances, you might have to pay for a licence that grants you use of the data. In addition to being a data repository, The WPP Open Data Catalog also helps identify rights over data and indicates where payments may be required.</p><p>Even once rights are obtained, it is important to consider the ethics of using the data. More can be discovered in the accompanying module on Being Trusted with Data.</p>",
+        "body": "<p>Any project that brings together data is likely to face some legal and ethical challenges. If data is openly licensed, it can be used immediately. In other circumstances, you might have to pay for a licence that grants you use of the data. In addition to being a data repository, The <a href=\"https://open.wpp.com/data/data-catalog/\" target=\"_blank\">WPP Open Data Catalog</a> also helps identify rights over data and indicates where payments may be required.</p><p>Even once rights are obtained, it is important to consider the ethics of using the data. More can be discovered in the accompanying module on <a href=\"https://open.wpp.com/being-trusted-with-data/\" target=\"_blank\">Being Trusted with Data</a>.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -556,7 +565,8 @@
         "_classes": ""
       }
     ],
-    "_shouldCollapseItems": true
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   },
   {
     "_component": "graphic",
@@ -988,7 +998,7 @@
     },
     "instruction": "",
     "_attempts": -1,
-    "_canShowModelAnswer": true,
+    "_canShowModelAnswer": false,
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldResetAllAnswers": true,
@@ -1394,7 +1404,7 @@
     "_disableAccessibilityState": false,
     "title": "Summary 2",
     "displayTitle": "",
-    "body": "<p>Our approach with WPP Open is to support our community to get more creative with data. The WPP Open Data Catalogue and Data &amp; AI Ethics Guidelines have been created to help reduce the barriers and challenges in discovering, accessing and using data responsibly.&nbsp;</p><p>Getting creative with data also requires a diverse and multi-skilled team who are all aware of the opportunities and limitations of using data in projects.</p>",
+    "body": "<p>Our approach with WPP Open is to support our community to get more creative with data. The <a href=\"https://open.wpp.com/data/data-catalog/\" target=\"_blank\">WPP Open Data Catalogue</a> and Data &amp; AI Ethics Guidelines have been created to help reduce the barriers and challenges in discovering, accessing and using data responsibly.&nbsp;</p><p>Getting creative with data also requires a diverse and multi-skilled team who are all aware of the opportunities and limitations of using data in projects.</p>",
     "_id": "5f24285d41097409545146e8",
     "_parentId": "5f24285d4109740954514690",
     "_type": "component",
@@ -1403,6 +1413,15 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": false,

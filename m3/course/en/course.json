@@ -100,9 +100,6 @@
       "_gmcq": {
         "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
       },
-      "_assessmentResults": {
-        "ariaRegion": "Assessment results."
-      },
       "_slider": {
         "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
         "labelStart": "Start of the scale",
@@ -114,6 +111,9 @@
       },
       "_graphic": {
         "ariaRegion": ""
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
       }
     },
     "_extensions": {
@@ -129,7 +129,7 @@
         "titleText": "",
         "contactEMail": "",
         "contactLinkText": "",
-        "aboutCredit": "",
+        "aboutCredit": "<p><strong>In order to mark this module as complete, please click on the arrow in the learning system navigation bar below.</strong></p>",
         "SL_text": "<p>Content created for WPP by The <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a></p>",
         "SL_facebook": "",
         "SL_flickr": "",

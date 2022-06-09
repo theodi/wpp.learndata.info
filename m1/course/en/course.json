@@ -85,15 +85,8 @@
         "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
         "skipToTranscript": "Skip to transcript"
       },
-      "_hotgraphic": {
-        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
-        "popupPagination": "{{itemNumber}} / {{totalItems}}"
-      },
       "_accordion": {
         "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      },
-      "_graphic": {
-        "ariaRegion": ""
       },
       "_matching": {
         "ariaRegion": "Matching. Select from lists and then submit."
@@ -107,13 +100,20 @@
       "_gmcq": {
         "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
       },
-      "_assessmentResults": {
-        "ariaRegion": "Assessment results."
-      },
       "_slider": {
         "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
         "labelStart": "Start of the scale",
         "labelEnd": "End of the scale"
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
       }
     },
     "_extensions": {
@@ -129,7 +129,7 @@
         "titleText": "",
         "contactEMail": "",
         "contactLinkText": "",
-        "aboutCredit": "",
+        "aboutCredit": "<p><strong>In order to mark this module as complete, please click on the arrow in the learning system navigation bar below.</strong></p>",
         "SL_text": "<p>Content created for WPP by The <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a></p>",
         "SL_facebook": "",
         "SL_flickr": "",

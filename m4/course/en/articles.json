@@ -19,10 +19,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_isEnabled": true,
       "_id": "working_with_data_1",
@@ -30,7 +26,7 @@
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.4,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -44,11 +40,15 @@
         "_randomisation": false
       },
       "_questions": {
-        "_resetType": "soft",
+        "_resetType": "hard",
         "_canShowFeedback": true,
         "_canShowMarking": true,
-        "_canShowModelAnswer": true
+        "_canShowModelAnswer": false
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -147,10 +147,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_isEnabled": true,
       "_id": "working_with_data_2",
@@ -158,7 +154,7 @@
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.6,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -177,6 +173,10 @@
         "_canShowMarking": true,
         "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {

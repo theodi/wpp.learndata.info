@@ -100,7 +100,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": 1,
+    "_attempts": -1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -223,7 +223,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": 1,
+    "_attempts": -1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -404,7 +404,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": 1,
+    "_attempts": -1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -462,7 +462,7 @@
     "_disableAccessibilityState": false,
     "title": "Different types of data in the WPP Open Data Catalog",
     "displayTitle": "",
-    "body": "<p>The different types of data are clearly tagged in the <a href=\"https://data.world/wppdatacatalogue/\" target=\"_blank\">WPP Open Data Catalog</a>. On a dataset page there is a “Sensitivity/Restricted” section under “More information”. Open data is labelled with tags such as “Open source” or “Public” and is available to everyone, even those outside of WPP. Other datasets are tagged as “WPP only” or “Restricted”.</p>",
+    "body": "<p>The different types of data are clearly tagged in the&nbsp;<a href=\"https://open.wpp.com/data/data-catalog/\" target=\"_blank\">WPP&nbsp;Data Catalog</a>. On a dataset page, under “More information”, you can see data attributes that apply to the dataset.<br />Open data is labelled with tags such as “Open source” or “Public” and can be shared with anyone, even outside of&nbsp;WPP. Other datasets are tagged as “WPP” or “Limited”.</p>",
     "_id": "5f2425cb4109740954514551",
     "_parentId": "5f2425cb410974095451450c",
     "_type": "component",
@@ -471,6 +471,15 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -517,7 +526,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": 1,
+    "_attempts": -1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -612,7 +621,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": 1,
+    "_attempts": -1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -702,7 +711,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": 1,
+    "_attempts": -1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -1032,7 +1041,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "clipboard color-two",
+    "_classes": "clipboard",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1076,7 +1085,7 @@
     "_disableAccessibilityState": false,
     "title": "Respecting the rights of data owners",
     "displayTitle": "Respecting the rights of data owners",
-    "body": "<p>Owning data – having as much data as possible in one place, trying to know everything about everyone – is not only a problem in terms of data management, it also risks infringing rights.&nbsp;</p><p>To help explain this complex landscape, the Open Data Institute has produced the Data Spectrum which neatly illustrates the different types of data you will find in the WPP catalogue.&nbsp;</p>",
+    "body": "<p>Owning data – having as much data as possible in one place, trying to know everything about everyone – is not only a problem in terms of data management, it also risks infringing rights.&nbsp;</p><p>To help explain this complex landscape, the Open Data Institute has produced the Data Spectrum which neatly illustrates the different types of data you will find in the <a href=\"https://open.wpp.com/data/data-catalog/\" target=\"_blank\">WPP catalogue</a>.&nbsp;</p>",
     "_id": "5f2425cb410974095451455d",
     "_parentId": "5f2425cb410974095451450b",
     "_type": "component",
@@ -1085,6 +1094,15 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -1101,6 +1119,8 @@
     "mobileInstruction": "",
     "_hidePagination": false,
     "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
     "_useGraphicsAsPins": false,
     "_isRound": false,
     "_items": [
@@ -1126,7 +1146,7 @@
       {
         "title": "Shared data",
         "_ariaLevel": 0,
-        "body": "<p dir=\"ltr\">Shared data is the largest category and covers everything from medical research data to social network data. In this category, there are often restrictions on who can access and use the data.</p><p dir=\"ltr\">Examples of shared data in WPP include: <a href=\"https://data.world/wppdatacatalogue/key-brandz-metrics\" target=\"_blank\">BrandZ Data</a> (WPP only),&nbsp; <a href=\"https://data.world/wppdatacatalogue/wpp-data-survey-summary-of-service-providers\" target=\"_blank\">WPP Data Survey - Summary of Service Providers</a> (restricted).&nbsp;</p>",
+        "body": "<p dir=\"ltr\">Shared data is the largest category and covers everything from medical research data to social network data. In this category, there are often restrictions on who can access and use the data.</p><p dir=\"ltr\">Examples of shared data in WPP include:&nbsp;<a href=\"https://wppbav.com/\" target=\"_blank\">BAV</a>&nbsp;(WPP only),&nbsp;&nbsp;<a href=\"https://data.world/wppdatacatalogue/wpp-data-survey-summary-of-service-providers\" target=\"_blank\">WPP Data Survey - Summary of Service Providers</a>&nbsp;(restricted).&nbsp;</p>",
         "strapline": "Shared data",
         "_graphic": {
           "src": "course/en/assets/fd837fbc66bc4380b0b558e3c522f0743a010a71.png",
@@ -1204,6 +1224,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -1211,9 +1240,11 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/4b1c952d6a5688df181b60b5d80b02f8ec5bca29.jpg",
-      "small": "course/en/assets/4b1c952d6a5688df181b60b5d80b02f8ec5bca29.jpg",
-      "attribution": "<a href=\"https://data.world/wppdatacatalogue/\" target=\"_blank\">WPP Open</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/810e699f570c7f68bd04be267671180521201a74.png",
+      "small": "course/en/assets/810e699f570c7f68bd04be267671180521201a74.png",
+      "attribution": "<a href=\"https://data.world/wppdatacatalogue/\" target=\"_blank\">WPP Open</a> <span class='assetLicence'>[CC-BY-ND]</span>",
+      "_url": "",
+      "_target": null
     }
   },
   {

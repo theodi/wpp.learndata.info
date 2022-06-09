@@ -241,12 +241,23 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
@@ -488,19 +499,30 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
       {
         "title": "Generating creative insights for a brand",
         "_ariaLevel": 0,
-        "body": "<p dir=\"ltr\">A variety of data sources, both internal and external can be used to better understand the relationships between markets, brands and consumers.</p><p dir=\"ltr\">An experiment in data-informed creativity helped Kantar Consulting and Wunderman identify a new way to raise the profile of Children’s IKEA by weaving multiple data sources together. They analysed 50m rows of data to find out what parents most care about and identified that ‘behaviour and development’ was high on the list, in second place. They also established that 50% of parents struggle for ideas that encourage creative play. So, IKEA Toybox was created, an augmented-reality driven app that inspires recycling boxes.&nbsp;&nbsp;</p>",
+        "body": "<p dir=\"ltr\">A variety of data sources, both internal and external can be used to better understand the relationships between markets, brands and consumers.</p><p dir=\"ltr\">An experiment in data-informed creativity helped <a href=\"https://sites.wpp.com/wppedcream/2018/data-driven-insights/how-is-data-reinventing-the-flatpack-empire?c=acc95612-04b0-48f7-bc7c-663710168a97\" target=\"_blank\">Kantar Consulting and Wunderman identify a new way to raise the profile of Children’s IKEA</a> by weaving multiple data sources together. They analysed 50m rows of data to find out what parents most care about and identified that ‘behaviour and development’ was high on the list, in second place. They also established that 50% of parents struggle for ideas that encourage creative play. So, IKEA Toybox was created, an augmented-reality driven app that inspires recycling boxes.&nbsp;&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/8682736b553261101600bb0b8255609d85693dc4.png",
           "alt": "",
@@ -511,7 +533,7 @@
       {
         "title": "Reaching new markets",
         "_ariaLevel": 0,
-        "body": "<p dir=\"ltr\">When a WPP customer wants to increase the reach of their brand and generate sales, data about people provides insights that make strategy and planning decisions more effective.</p><p dir=\"ltr\">MediaCom used data to build an ‘intent-to-purchase score’ for Shell to help inform millions of prospects. They started by looking at data covering purchase ‘intent signals’ for consumers in China and the US. These signals were aggregated into a single intent-to-purchase score that was used to target customers. For the first time, Shell was able to target globally through media and messaging for every product, based on a customer’s actual intent to purchase.</p>",
+        "body": "<p dir=\"ltr\">When a WPP customer wants to increase the reach of their brand and generate sales, data about people provides insights that make strategy and planning decisions more effective.</p><p dir=\"ltr\"><a href=\"https://www.mediacom.com/en/case-studies/shell-itp\" target=\"_blank\">MediaCom used data to build an ‘intent-to-purchase score’ for Shell</a> to help inform millions of prospects. They started by looking at data covering purchase ‘intent signals’ for consumers in China and the US. These signals were aggregated into a single intent-to-purchase score that was used to target customers. For the first time, Shell was able to target globally through media and messaging for every product, based on a customer’s actual intent to purchase.</p>",
         "_graphic": {
           "src": "course/en/assets/eab6f6cffbf8239c48f8f6585f9e47b13452ae8d.png",
           "alt": "",
@@ -711,12 +733,23 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Find out more in the case studies below:",
     "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "allItems",
     "_items": [
@@ -734,7 +767,7 @@
       {
         "title": "Helping existing clients extract better value from their data through effective data management",
         "_ariaLevel": 0,
-        "body": "<p>John Lewis wanted to increase product coverage and visibility in Google Paid Search campaigns and to increase the return on investment on its Google spend. Wunderman Thompson’s Commerce Data Management team set up product feed technology to extract product data from the retailer’s website. They then used this data to build campaigns for John Lewis and to set automated business rules. As a result, return on investment in paid search increased by 300% and conversions by 250%.</p>",
+        "body": "<p>John Lewis wanted to increase product coverage and visibility in Google Paid Search campaigns and to increase the return on investment on its Google spend.&nbsp;<a href=\"https://www.wundermanthompson.com/insight/retail-concierges-2-0\" target=\"_blank\">Wunderman Thompson’s Commerce Data Management team set up product feed technology</a>&nbsp;to extract product data from the retailer’s website. They then used this data to build campaigns for John Lewis and to set automated business rules. As a result, return on investment in paid search increased by 300% and conversions by 250%.</p>",
         "_graphic": {
           "src": "course/en/assets/27e46b8ecff0ef00b011569e3060bd672793f041.jpg",
           "alt": "",
@@ -743,9 +776,9 @@
         "strapline": "Helping existing clients extract better value from their data through effective data management"
       },
       {
-        "title": "Generating value through shared work [and data]",
+        "title": "Generating value through shared work (and data)",
         "_ariaLevel": 0,
-        "body": "<p>The Mirum data team explored the WPP OPEN Data catalog for relevant datasets and to suggest new ones based on their client’s needs. Two datasets were used to develop decision trees and neural networks. These were documented and the Mirum team shared the documentation on the Wunderman Thompson data science Slack channel. The learnings from the decision tree exercise were applied to a decision tree project for United Healthcare.</p>",
+        "body": "<p>The <a href=\"https://open.wpp.com/help-me-sell/mirum-sharing-insight-and-knowledge-through-the-data-catalog/\" target=\"_blank\">Mirum data team</a> explored the <a href=\"https://open.wpp.com/data/data-catalog/\" target=\"_blank\">WPP OPEN Data catalog</a> for relevant datasets and to suggest new ones based on their client’s needs. Two datasets were used to develop decision trees and neural networks. These were documented and the Mirum team shared the documentation on the Wunderman Thompson data science Slack channel. The learnings from the decision tree exercise were applied to a decision tree project for United Healthcare.</p>",
         "_graphic": {
           "src": "course/en/assets/451c6dc1e6683b6ad4c3a93fcff3b71fcdebaf6d.jpg",
           "alt": "",

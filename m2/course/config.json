@@ -17,7 +17,6 @@
   },
   "_accessibility": {
     "_isEnabled": false,
-    "_isTextProcessorEnabled": false,
     "_isSkipNavigationEnabled": true,
     "_ariaLevels": {
       "_menu": 1,
@@ -31,10 +30,10 @@
       "_notify": 1
     }
   },
-  "__v": 1,
+  "__v": 2,
   "_completionCriteria": {
-    "_requireContentCompleted": true,
-    "_requireAssessmentCompleted": false
+    "_requireContentCompleted": false,
+    "_requireAssessmentCompleted": true
   },
   "_logging": {
     "_isEnabled": true,
@@ -52,7 +51,7 @@
     "large": 900
   },
   "_devtools": {
-    "_isEnabled": false
+    "_isEnabled": true
   },
   "_spoor": {
     "_isEnabled": true,
@@ -63,7 +62,7 @@
       "_shouldRecordInteractions": true
     },
     "_reporting": {
-      "_onTrackingCriteriaMet": "completed",
+      "_onTrackingCriteriaMet": "passed",
       "_onAssessmentFailure": "failed",
       "_resetStatusOnLanguageChange": false
     },

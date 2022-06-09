@@ -30,10 +30,10 @@
       "_notify": 1
     }
   },
-  "__v": 4,
+  "__v": 6,
   "_completionCriteria": {
-    "_requireContentCompleted": true,
-    "_requireAssessmentCompleted": false
+    "_requireContentCompleted": false,
+    "_requireAssessmentCompleted": true
   },
   "_logging": {
     "_isEnabled": true,
@@ -62,7 +62,7 @@
       "_shouldRecordInteractions": true
     },
     "_reporting": {
-      "_onTrackingCriteriaMet": "completed",
+      "_onTrackingCriteriaMet": "passed",
       "_onAssessmentFailure": "failed",
       "_resetStatusOnLanguageChange": false
     },

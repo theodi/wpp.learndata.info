@@ -87,14 +87,6 @@
     "attribution": "The Open Data Institute",
     "tags": []
   },
-  "4b1c952d6a5688df181b60b5d80b02f8ec5bca29.jpg": {
-    "title": "WPP Catalog 2",
-    "description": "WPP Catalog",
-    "source": "https://data.world/wppdatacatalogue/",
-    "licence": "All rights reserved",
-    "attribution": "WPP Open",
-    "tags": []
-  },
   "09fad7901a42ee3f223f988588cbf75c090ec6de.jpg": {
     "title": "Person using laptop computer during daytime",
     "description": "Person using laptop computer during daytime",
@@ -197,6 +189,14 @@
     "source": "https://theodi.org",
     "licence": "CC-BY",
     "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "810e699f570c7f68bd04be267671180521201a74.png": {
+    "title": "WPP Open Data Catalog example",
+    "description": "WPP Open Data Catalog example",
+    "source": "https://data.world/wppdatacatalogue/",
+    "licence": "CC-BY-ND",
+    "attribution": "WPP Open",
     "tags": []
   }
 }

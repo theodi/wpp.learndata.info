@@ -89,6 +89,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
@@ -116,13 +125,14 @@
         "feedback": ""
       }
     ],
-    "_attempts": 1,
+    "_attempts": -1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
@@ -185,7 +195,8 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "Select your answer then click 'submit'",
     "_items": [
@@ -205,7 +216,7 @@
         "feedback": ""
       }
     ],
-    "_attempts": 1,
+    "_attempts": -1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -339,6 +350,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
@@ -348,7 +368,7 @@
     "_items": [
       {
         "title": "Open",
-        "body": "<p>We have built the WPP OPEN Data Catalog for our data community to access an index of data available across WPP and to share non-sensitive data. The catalog has already increased collaboration between our data talent in our creative, media and digital agencies.</p>",
+        "body": "<p>We have built the&nbsp;<a href=\"https://open.wpp.com/data/data-catalog/\" target=\"_blank\">WPP OPEN Data Catalog</a>&nbsp;for our data community to access an index of data available across WPP and to share non-sensitive data. The catalog has already increased collaboration between our data talent in our creative, media and digital agencies.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -368,7 +388,7 @@
       },
       {
         "title": "Future-proofed",
-        "body": "<p>To help everyone get creative through data, we will provide data literacy programmes for everyone. In addition to these modules, our AI Academy will upskill 2,500 data scientists in 2020 and the same again in 2021. Our Demystify AI programme will help upskill 25,000 of our colleagues in AI basics.</p>",
+        "body": "<p>To help everyone get creative through data, we will provide data literacy programmes for everyone. In addition to these modules, our AI Academy&nbsp;upskilled 2,500 data scientists in 2020 and the same again in 2021. Our Demystify AI programme will help upskill 25,000 of our colleagues in AI basics.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -378,7 +398,7 @@
       },
       {
         "title": "Creatively inspiring",
-        "body": "<p>We are building a cross-agency, cross-market, multi-discipline data and AI community. This group fuels our creativity through code sharing, blogs, and challenges that give us space to think about questions laterally and to tackle client problems; and helps ensure we don’t duplicate work.</p>",
+        "body": "<p>We are building a cross-agency, cross-market, multi-discipline&nbsp;<a href=\"https://open.wpp.com/communities/list/data-and-ai/\" target=\"_blank\">data and AI community</a>. This group fuels our creativity through code sharing, blogs, and challenges that give us space to think about questions laterally and to tackle client problems; and helps ensure we don’t duplicate work.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -387,7 +407,8 @@
         "_classes": ""
       }
     ],
-    "_shouldCollapseItems": true
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   },
   {
     "_component": "mcq",
@@ -438,7 +459,7 @@
         "feedback": "<p>&nbsp;</p><p>&nbsp;</p>"
       }
     ],
-    "_attempts": 1,
+    "_attempts": -1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
@@ -496,7 +517,7 @@
     "_disableAccessibilityState": false,
     "title": "Where data sits in our landscape",
     "displayTitle": "Where data sits in our landscape",
-    "body": "<p>We want data to motivate, inspire and to grow our creativity to help deliver high-quality products for our clients. Our clients pay for high-quality data outputs, not for huge data lakes which become too big and cumbersome to maintain.</p><p>“Through 2022, over 80% of data lake projects will fail to deliver value. Finding, inventorying and curating data will prove to be the biggest inhibitor to analytics and data science success.” - Gartner, September 2019</p><p>WPP is not in the business of buying, collecting and storing huge swathes of irrelevant data, especially when a lot of data is already available.</p><p>“Data increases in value the more it is connected” - ODI 2017</p><p>We want to enable our community to discover new sources of high-quality data – both internally and externally – we&nbsp; created the WPP OPEN Data catalog. The catalog provides an index of data available across WPP and enables our community to share non-sensitive data. The catalog has already increased collaboration between our data talent across our creative, media and digital agencies.</p><p>&nbsp;</p>",
+    "body": "<p>We want data to motivate, inspire and to grow our creativity to help deliver high-quality products for our clients. Our clients pay for high-quality data outputs, not for huge data lakes which become too big and cumbersome to maintain.</p><p>“Through 2022, over 80% of data lake projects will fail to deliver value. Finding, inventorying and curating data will prove to be the biggest inhibitor to analytics and data science success.” - Gartner, September 2019</p><p>WPP is not in the business of buying, collecting and storing huge swathes of irrelevant data, especially when a lot of data is already available.</p><p>“Data increases in value the more it is connected” - ODI 2017</p><p>We want to enable our community to discover new sources of high-quality data – both internally and externally – we&nbsp;created the&nbsp;<a href=\"https://open.wpp.com/data/data-catalog/\" target=\"_blank\">WPP OPEN Data catalog</a>. The catalog provides an index of data available across WPP and enables our community to share non-sensitive data. The catalog has already increased collaboration between our data talent across our creative, media and digital agencies.</p>",
     "_id": "5f2420dc4109740954514258",
     "_parentId": "5f2420dc4109740954514217",
     "_type": "component",
@@ -506,8 +527,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -641,7 +672,7 @@
     "_disableAccessibilityState": false,
     "title": "Data variety is our superpower",
     "displayTitle": "Data variety is our superpower",
-    "body": "<p>Data is both a source of inspiration and a material used in the development of creative products. We can use data to help shape and refine what we create, reach new markets, drive engagement and deliver emotional experiences that connect consumers to our brands.</p><p>This superpower can only be activated when the right data is collected and made available to those who need it.</p><p>At WPP we want our data talent to spend as much time as possible using data creatively, not having to find and obtain access to data. This is why we have created the WPP Open Data catalog. The catalog will enable everyone to list, discover and explore relevant data that is available from the community as well as external sources.</p><p>Of course, we have access to all the usual datasets; <strong>audience data, client data, brand data, transactional data, market data, campaign data, creative and media data </strong>and <strong>operational data</strong>.</p>",
+    "body": "<p>Data is both a source of inspiration and a material used in the development of creative products. We can use data to help shape and refine what we create, reach new markets, drive engagement and deliver emotional experiences that connect consumers to our brands.</p><p>This superpower can only be activated when the right data is collected and made available to those who need it.</p><p>At WPP we want our data talent to spend as much time as possible using data creatively, not having to find and obtain access to data. This is why we have created the&nbsp;<a href=\"https://open.wpp.com/data/data-catalog/\" target=\"_blank\">WPP Open Data catalog</a>. The catalog will enable everyone to list, discover and explore relevant data that is available from the community as well as external sources.</p><p>Of course, we have access to all the usual datasets;&nbsp;<strong>audience data, client data, brand data, transactional data, market data, campaign data, creative and media data&nbsp;</strong>and&nbsp;<strong>operational data</strong>.</p>",
     "_id": "5f2420dc410974095451425d",
     "_parentId": "5f2420dc410974095451421a",
     "_type": "component",
@@ -651,8 +682,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
